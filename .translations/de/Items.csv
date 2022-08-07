@@ -40,17 +40,17 @@ _work/Data/Scripts/content/Items/Animaltrophy.d:360,Blutfliegenstachel,,,,ItAt_B
 _work/Data/Scripts/content/Items/Animaltrophy.d:379,Herz eines Steingolems,,,,ItAt_StoneGolem_01.name,,
 _work/Data/Scripts/content/Items/Animaltrophy.d:391,Dieses Herz stammt aus den Überresten,,,,ItAt_StoneGolem_01.text[0],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:392,eines besiegten Steingolems.,,,,ItAt_StoneGolem_01.text[1],,
-_work/Data/Scripts/content/Items/Animaltrophy.d:393,"Es hat die Kraft, einen Gegner",,,,ItAt_StoneGolem_01.text[2],,
+_work/Data/Scripts/content/Items/Animaltrophy.d:393,""Es hat die Kraft, einen Gegner"",,,,ItAt_StoneGolem_01.text[2],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:394,durch die Luft zu schleudern.,,,,ItAt_StoneGolem_01.text[3],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:401,Herz eines Feuergolems,,,,ItAt_FireGolem_01.name,,
 _work/Data/Scripts/content/Items/Animaltrophy.d:413,Dieses Herz stammt aus den Überresten,,,,ItAt_FireGolem_01.text[0],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:414,eines besiegten Feuergolems.,,,,ItAt_FireGolem_01.text[1],,
-_work/Data/Scripts/content/Items/Animaltrophy.d:415,"Es hat die Kraft, einen Gegner",,,,ItAt_FireGolem_01.text[2],,
+_work/Data/Scripts/content/Items/Animaltrophy.d:415,""Es hat die Kraft, einen Gegner"",,,,ItAt_FireGolem_01.text[2],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:416,in Flammen aufgehen zu lassen.,,,,ItAt_FireGolem_01.text[3],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:423,Herz eines Eisgolems,,,,ItAt_IceGolem_01.name,,
 _work/Data/Scripts/content/Items/Animaltrophy.d:435,Dieses Herz stammt aus den Überresten,,,,ItAt_IceGolem_01.text[0],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:436,eines besiegten Eisgolems.,,,,ItAt_IceGolem_01.text[1],,
-_work/Data/Scripts/content/Items/Animaltrophy.d:437,"Es hat die Kraft, einen Gegner",,,,ItAt_IceGolem_01.text[2],,
+_work/Data/Scripts/content/Items/Animaltrophy.d:437,""Es hat die Kraft, einen Gegner"",,,,ItAt_IceGolem_01.text[2],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:438,zu Eis erstarren zu lassen.,,,,ItAt_IceGolem_01.text[3],,
 _work/Data/Scripts/content/Items/Animaltrophy.d:445,Stück eines Eisgolems,,,,ItAt_IceGolem_02.name,,
 _work/Data/Scripts/content/Items/Animaltrophy.d:459,Dieses Stück stammt aus den Überresten,,,,ItAt_IceGolem_02.text[0],,
@@ -341,16 +341,16 @@ _work/Data/Scripts/content/Items/MissionItems_1.d:208,Jackals Schwert,,,,Jackals
 _work/Data/Scripts/content/Items/MissionItems_1.d:256,Botenamulett der Wassermagier,,,,KdW_Amulett.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:270,Brief,,,,Cronos_Brief.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:281,Cronos Brief an die Feuermagier,,,,Cronos_Brief.description,,
-_work/Data/Scripts/content/Items/MissionItems_1.d:293,"Hochgeschätzter Meister Corristo,",,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:296,"Saturas, ehrwürdiger Meister der Magier vom Keis des Wassers, möchte Euch ersuchen, gemeinsam mit uns dafür Sorge zu tragen, daß die Spannungen zwischen dem alten und dem neuen Lager in einem Rahmen gehalten werden, der für beide Seiten zuträglich ist. Da Ihr dafür Sorge tragt, daß der König seine monatliche Erzlieferung erhält, ist es in Eurem Interesse, daß die Aktivitäten der Banditen aus dem Neuen Lager eingeschränkt werden. Desweiteren ist es in unserem Interesse, daß seitens des Alten Lagers keine Schritte unternommen werden, die unser Vorhaben, die magische Barriere wieder zu öffnen in Gefahr bringen könnten.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:293,""Hochgeschätzter Meister Corristo,"",,,,,,Doc_PrintLine call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:296,""Saturas, ehrwürdiger Meister der Magier vom Keis des Wassers, möchte Euch ersuchen, gemeinsam mit uns dafür Sorge zu tragen, daß die Spannungen zwischen dem alten und dem neuen Lager in einem Rahmen gehalten werden, der für beide Seiten zuträglich ist. Da Ihr dafür Sorge tragt, daß der König seine monatliche Erzlieferung erhält, ist es in Eurem Interesse, daß die Aktivitäten der Banditen aus dem Neuen Lager eingeschränkt werden. Desweiteren ist es in unserem Interesse, daß seitens des Alten Lagers keine Schritte unternommen werden, die unser Vorhaben, die magische Barriere wieder zu öffnen in Gefahr bringen könnten."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:298,In Erwartung Eurer baldigen Antwort,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:300,"            Cronos, Hüter des Erzes",,,,,,Doc_PrintLine call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:300,""            Cronos, Hüter des Erzes"",,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:329,Amulett des toten Gardisten,,,,Neks_Amulett.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:330,der Name NEK ist auf der Rückseite eingraviert,,,,Neks_Amulett.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:357,Sumpfkraut für Buddler,,,,RecruitJoint.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:392,Heiltrank für YBerion,,,,HealthWater.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:429,Bedarfsliste,,,,TheList.name,,
-_work/Data/Scripts/content/Items/MissionItems_1.d:445,"Ian, der Boss der Alten Mine hat auf dieser",,,,TheList.text[0],,
+_work/Data/Scripts/content/Items/MissionItems_1.d:445,""Ian, der Boss der Alten Mine hat auf dieser"",,,,TheList.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:446,Liste seinen Bedarf an Vorräten aufgeführt.,,,,TheList.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:458,Bedarfsliste,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:460,20 Laib  Brot - diesmal  aber nicht  das Verschimmelte!,,,,,,Doc_PrintLines call.
@@ -363,7 +363,7 @@ _work/Data/Scripts/content/Items/MissionItems_1.d:466,Und  reichlich  Sumpfkraut
 _work/Data/Scripts/content/Items/MissionItems_1.d:467,Die Lieferung   sollte  übermorgen da sein.,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:470,IAN,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:480,Bedarfsliste (erweitert),,,,TheListNC.name,,
-_work/Data/Scripts/content/Items/MissionItems_1.d:496,"Ian, der Boss der Alten Mine hat auf dieser",,,,TheListNC.text[0],,
+_work/Data/Scripts/content/Items/MissionItems_1.d:496,""Ian, der Boss der Alten Mine hat auf dieser"",,,,TheListNC.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:497,Liste seinen Bedarf an Vorräten aufgeführt.,,,,TheListNC.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:498,(Lares hat einige Punkte hinzugefügt. Eine,,,,TheListNC.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:499,wirklich meisterhafte Fälschung!),,,,TheListNC.text[3],,
@@ -389,8 +389,8 @@ _work/Data/Scripts/content/Items/MissionItems_1.d:657,Kalom's Rezept,,,,KalomsRe
 _work/Data/Scripts/content/Items/MissionItems_1.d:669,Das Rezept für einen Heiltrank,,,,KalomsRecipe.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:699,Lifrun ak Gharak,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:701,Gharak Or Nach bin thu. Lifrun mar Orag chtah. Shrunk esp Horinth.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:708,"Wenn man es rückwärts liest, scheint es einen Sinn zu geben",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:710,"          - Kalom",,,,,,Doc_PrintLine call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:708,""Wenn man es rückwärts liest, scheint es einen Sinn zu geben"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:710,""          - Kalom"",,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:749,Karte der Kolonie,,,,ItWrWorldmap.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:763,Leider fehlt darauf ein großes Gebiet,,,,ItWrWorldmap.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:764,im Südwesten.,,,,ItWrWorldmap.text[1],,
@@ -406,12 +406,12 @@ _work/Data/Scripts/content/Items/MissionItems_1.d:976,Versiegelter Brief,,,,ItWr
 _work/Data/Scripts/content/Items/MissionItems_1.d:987,Brief an Feuermagier,,,,ItWr_Fire_Letter_01.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:990,Das Siegel darf nicht geöffnet werden!,,,,ItWr_Fire_Letter_01.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1014,Hochgeschätzter Meister,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1017,"eure letzte Nachricht erhielten wir mit großer Sorge.Wir haben uns beraten und lassen Euch durch diesen Brief unsere Entscheidung wissen.Die  Bruderschaft bedeutet eine Gefahr. Eine Gefahr für die weiteren Abläufe unseres Handelsabkommen und damit für den König, das gesamte Königreich und auch für Euer Leben. Deshalb solltet Ihr zunächst Kundschafter aussenden und herausfinden, auf welchen Göttern und auf welchem Wissen ihre magische Macht beruht. Wenn Ihr das herausgefunden habt, werden wir die Priester mit Euren Erkenntnissen vertraut machen, auf das wir gemeinsam diesem Spuk ein Ende bereiten werden. Schon in diesem Augenblick studieren die Gelehrten die alten Bücher. Über alle neuen Erkenntnisse berichten wir Euch umgehend auf gewohntem Weg.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1017,""eure letzte Nachricht erhielten wir mit großer Sorge.Wir haben uns beraten und lassen Euch durch diesen Brief unsere Entscheidung wissen.Die  Bruderschaft bedeutet eine Gefahr. Eine Gefahr für die weiteren Abläufe unseres Handelsabkommen und damit für den König, das gesamte Königreich und auch für Euer Leben. Deshalb solltet Ihr zunächst Kundschafter aussenden und herausfinden, auf welchen Göttern und auf welchem Wissen ihre magische Macht beruht. Wenn Ihr das herausgefunden habt, werden wir die Priester mit Euren Erkenntnissen vertraut machen, auf das wir gemeinsam diesem Spuk ein Ende bereiten werden. Schon in diesem Augenblick studieren die Gelehrten die alten Bücher. Über alle neuen Erkenntnisse berichten wir Euch umgehend auf gewohntem Weg."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1019,Möge Innos uns schützen,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1033,Geöffneter Brief,,,,ItWr_Fire_Letter_02.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1044,Brief an Feuermagier,,,,ItWr_Fire_Letter_02.description,,
-_work/Data/Scripts/content/Items/MissionItems_1.d:1069,"Hochgeschätzter Meister Xardas,",,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1072,"Eure letzte Nachricht erhielten wir mit großer Sorge. Wir haben uns beraten und lassen Euch durch diesen Brief unsere Entscheidung wissen. Die Bruderschaft bedeutet eine Gefahr. Eine Gefahr für die weiteren Abläufe unseres Handelsabkommen und damit für den König, das gesamte Königreich und auch für Euer Leben. Deshalb solltet Ihr zunächst Kundschafter aussenden und herausfinden, auf welchen Göttern und auf welchem Wissen ihre magische Macht beruht. Es ist unsere Pflicht, diese Sekte zu zerschlagen und ihr Wissen an uns zu bringen, auf das niemand damit Unheil zu stiften vermag. Sobald uns Eure Antwirt erreicht, werden wir Innos Priester mit Euren Erkenntnissen vertraut machen. Schon in diesem Augenblick studieren die Gelehrten die alten Bücher. Über alle neuen Erkenntnisse berichten wir Euch umgehend auf gewohntem Weg.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1069,""Hochgeschätzter Meister Xardas,"",,,,,,Doc_PrintLine call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1072,""Eure letzte Nachricht erhielten wir mit großer Sorge. Wir haben uns beraten und lassen Euch durch diesen Brief unsere Entscheidung wissen. Die Bruderschaft bedeutet eine Gefahr. Eine Gefahr für die weiteren Abläufe unseres Handelsabkommen und damit für den König, das gesamte Königreich und auch für Euer Leben. Deshalb solltet Ihr zunächst Kundschafter aussenden und herausfinden, auf welchen Göttern und auf welchem Wissen ihre magische Macht beruht. Es ist unsere Pflicht, diese Sekte zu zerschlagen und ihr Wissen an uns zu bringen, auf das niemand damit Unheil zu stiften vermag. Sobald uns Eure Antwirt erreicht, werden wir Innos Priester mit Euren Erkenntnissen vertraut machen. Schon in diesem Augenblick studieren die Gelehrten die alten Bücher. Über alle neuen Erkenntnisse berichten wir Euch umgehend auf gewohntem Weg."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1074,Möge Innos uns schützen,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1091,Gomez' Schlüssel,,,,ItKe_Gomez_01.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1101,Öffnet Gomez Truhen,,,,ItKe_Gomez_01.text[0],,
@@ -440,43 +440,43 @@ _work/Data/Scripts/content/Items/MissionItems_1.d:1261,Starkbier,,,,ItFo_OM_Beer
 _work/Data/Scripts/content/Items/MissionItems_1.d:1310,Altes Buch,,,,theriddle1.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1321,Chromanin,,,,theriddle1.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1341,Chromanin,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1345,"Der, der gewillt ist allen irdischen Lastern zu entsagen und auf den Pfaden der Rechtschaffenen wandelt, soll wissen wo der Quell meiner Macht verborgen liegt. Auf daß er es nutzen möge die Ketten dieser Welt zu sprengen und sich als würdig zu erweisen, Chromanin zu empfangen.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1360,"Der Weise verschafft sich großen Überblick, bevor er sich der nächsten Aufgabe widmet.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1367,"Ich habe dem Skelett Magier im Nebelturm ein sehr seltsames Buch abgenommen. Chromanin! Es scheint sich um ein Rätsel zu handeln, das ein geheimnisvoller Fremder dieser Welt gestellt hat: ...Der Weise verschafft sich großen Überblick, bevor er sich der nächsten Aufgabe widmet... Mmmh! Ich verstehe es noch nicht ganz. aber vielleicht komme ich ja noch dahinter.",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1345,""Der, der gewillt ist allen irdischen Lastern zu entsagen und auf den Pfaden der Rechtschaffenen wandelt, soll wissen wo der Quell meiner Macht verborgen liegt. Auf daß er es nutzen möge die Ketten dieser Welt zu sprengen und sich als würdig zu erweisen, Chromanin zu empfangen."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1360,""Der Weise verschafft sich großen Überblick, bevor er sich der nächsten Aufgabe widmet."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1367,""Ich habe dem Skelett Magier im Nebelturm ein sehr seltsames Buch abgenommen. Chromanin! Es scheint sich um ein Rätsel zu handeln, das ein geheimnisvoller Fremder dieser Welt gestellt hat: ...Der Weise verschafft sich großen Überblick, bevor er sich der nächsten Aufgabe widmet... Mmmh! Ich verstehe es noch nicht ganz. aber vielleicht komme ich ja noch dahinter."",,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1377,Altes Buch,,,,theriddle2.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1388,Chromanin 2,,,,theriddle2.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1409,Chromanin,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1413,"Getragen von den Gezeiten, haben Chromanins Visionen der Zukunft mir die Augen geöffnet. Kein Preis ist hoch genug, den Glauben daran wieder aufzugeben. Viel zu stark hat es mich bewegt.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1428,"Was geteilt, wird wieder vereint, wenn auch nur kurz massiv voneinander getrennt.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1434,"Ich habe ein zweites Buch gefunden, das den Namen Chromanin trägt. Und wieder gibt es mir ein Rätsel auf...Was geteilt, wird wieder vereint, wenn auch nur kurz massiv voneinander getrennt....",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1413,""Getragen von den Gezeiten, haben Chromanins Visionen der Zukunft mir die Augen geöffnet. Kein Preis ist hoch genug, den Glauben daran wieder aufzugeben. Viel zu stark hat es mich bewegt."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1428,""Was geteilt, wird wieder vereint, wenn auch nur kurz massiv voneinander getrennt."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1434,""Ich habe ein zweites Buch gefunden, das den Namen Chromanin trägt. Und wieder gibt es mir ein Rätsel auf...Was geteilt, wird wieder vereint, wenn auch nur kurz massiv voneinander getrennt...."",,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1445,Altes Buch,,,,theriddle3.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1456,Chromanin 3,,,,theriddle3.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1477,Chromanin,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1481,"Oh, ihr Götter der alten Zeiten. Kann es sein, das ein Mensch, wie ich, der nur einfach gestrickt und unwürdig, solch´ großes Vermächtnis erlangen darf. Die Angst ist groß, alles zu verlieren durch ein kleines Wort des Schwankens.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1496,"Der kluge Fischer, versucht sein Glück auch mal auf der anderen Seite des Sees.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1504,"Ich habe das dritte Buch gefunden. Ich glaube so langsam verstehe ich, wie das abläuft....Der kluge Fischer, versucht sein Glück auch mal auf der anderen Seite des Sees...",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1481,""Oh, ihr Götter der alten Zeiten. Kann es sein, das ein Mensch, wie ich, der nur einfach gestrickt und unwürdig, solch´ großes Vermächtnis erlangen darf. Die Angst ist groß, alles zu verlieren durch ein kleines Wort des Schwankens."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1496,""Der kluge Fischer, versucht sein Glück auch mal auf der anderen Seite des Sees."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1504,""Ich habe das dritte Buch gefunden. Ich glaube so langsam verstehe ich, wie das abläuft....Der kluge Fischer, versucht sein Glück auch mal auf der anderen Seite des Sees..."",,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1518,Altes Buch,,,,theriddle4.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1529,Chromanin 4,,,,theriddle4.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1550,Chromanin,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1554,"Ich wage nicht zu hoffen eines Tages Chromanin selbst zu erleben. Vorbei sind die Tage der Verschwendung und des Klangens. So leicht wird es sein, die völlige Vollendung zu erreichen. Ich bin nicht mehr weit davon entfernt.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1569,"Vergessen sind die Taten jener, die sich einst an Bord befanden.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1576,"Nummer vier. Ich frag mich langsam, warum ich mich von diesem Typ an der Nase herumführen lasse....Vergessen sind die Taten jener, die sich einst an Bord befanden...",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1554,""Ich wage nicht zu hoffen eines Tages Chromanin selbst zu erleben. Vorbei sind die Tage der Verschwendung und des Klangens. So leicht wird es sein, die völlige Vollendung zu erreichen. Ich bin nicht mehr weit davon entfernt."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1569,""Vergessen sind die Taten jener, die sich einst an Bord befanden."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1576,""Nummer vier. Ich frag mich langsam, warum ich mich von diesem Typ an der Nase herumführen lasse....Vergessen sind die Taten jener, die sich einst an Bord befanden..."",,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1591,Altes Buch,,,,theriddle5.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1602,Chromanin 5,,,,theriddle5.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1623,Chromanin,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1627,"Doch soll ich nicht alleine diesen Weg beschreiten. Diese Ehre sei mir vergönnt. Ich muß mich fügen und die Kraft, die in mir wohnt, muß ich teilen mit den Würdigen, die da kommen werden, mich zu finden. Hoffentlich kommen sie bald...",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1642,"Dort, wo alles begann, sollst du mich finden.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1651,"Dies scheint das letzte zu sein. Bin gespannt zu erfahren, wem ich gegenüber stehen werde ...Dort, wo alles begann, sollst du mich finden...",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1627,""Doch soll ich nicht alleine diesen Weg beschreiten. Diese Ehre sei mir vergönnt. Ich muß mich fügen und die Kraft, die in mir wohnt, muß ich teilen mit den Würdigen, die da kommen werden, mich zu finden. Hoffentlich kommen sie bald..."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1642,""Dort, wo alles begann, sollst du mich finden."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1651,""Dies scheint das letzte zu sein. Bin gespannt zu erfahren, wem ich gegenüber stehen werde ...Dort, wo alles begann, sollst du mich finden..."",,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Items/MissionItems_1.d:1664,Altes Buch,,,,theriddle6.name,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1675,Chromanin 6,,,,theriddle6.description,,
 _work/Data/Scripts/content/Items/MissionItems_1.d:1696,Chromanin,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_1.d:1723,"Der geheimnisvolle Fremde ist tot. Diese Dämonen haben ihn getötet. Irgendetwas scheint ihn mit diesen Geschöpfen der Hölle verbunden zu haben. Sonst wäre er sicher nicht an diesen gottverlassenen Ort zurückgekehrt. Das Geheimnis, das er mit mir teilen wollte, hat er mit ins Grab genommen.",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Items/MissionItems_1.d:1723,""Der geheimnisvolle Fremde ist tot. Diese Dämonen haben ihn getötet. Irgendetwas scheint ihn mit diesen Geschöpfen der Hölle verbunden zu haben. Sonst wäre er sicher nicht an diesen gottverlassenen Ort zurückgekehrt. Das Geheimnis, das er mit mir teilen wollte, hat er mit ins Grab genommen."",,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Items/MissionItems_2.d:14,Fokuskarte von Y'Berion,,,,ItWrFocusmapPsi.name,,
 _work/Data/Scripts/content/Items/MissionItems_2.d:28,Auf dieser Karte ist der Weg zum,,,,ItWrFocusmapPsi.text[1],,
-_work/Data/Scripts/content/Items/MissionItems_2.d:29,"Fokusstein eingezeichnet, den Y'Berion",,,,ItWrFocusmapPsi.text[2],,
+_work/Data/Scripts/content/Items/MissionItems_2.d:29,""Fokusstein eingezeichnet, den Y'Berion"",,,,ItWrFocusmapPsi.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_2.d:30,für seine Schläfer-Beschwörung benötigt,,,,ItWrFocusmapPsi.text[3],,
 _work/Data/Scripts/content/Items/MissionItems_2.d:50,Fokus von der Meeresklippe,,,,Focus_1.name,,
-_work/Data/Scripts/content/Items/MissionItems_2.d:63,"Einer der fünf Foki, die zur Erschaffung",,,,Focus_1.text[1],,
+_work/Data/Scripts/content/Items/MissionItems_2.d:63,""Einer der fünf Foki, die zur Erschaffung"",,,,Focus_1.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_2.d:64,der magischen Barriere benutzt wurden.,,,,Focus_1.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_2.d:72,Zahnrad,,,,ItMi_Stuff_Gearwheel_01.name,,
 _work/Data/Scripts/content/Items/MissionItems_2.d:82,Es stammt von einem defekten Erzstampfer,,,,ItMi_Stuff_Gearwheel_01.text[0],,
@@ -489,14 +489,14 @@ _work/Data/Scripts/content/Items/MissionItems_2.d:105,Sie enthalten ein viel st�
 _work/Data/Scripts/content/Items/MissionItems_2.d:106,als die Zangen der normalen Minecrawler.,,,,ItAt_Crawlerqueen.text[3],,
 _work/Data/Scripts/content/Items/MissionItems_2.d:115,Almanach,,,,ItWrFokusbuch.name,,
 _work/Data/Scripts/content/Items/MissionItems_2.d:128,Dieses uralte Zauberbuch enthält eine Reihe,,,,ItWrFokusbuch.text[0],,
-_work/Data/Scripts/content/Items/MissionItems_2.d:129,"magischer Formeln, die sich alle auf die ",,,,ItWrFokusbuch.text[1],,
+_work/Data/Scripts/content/Items/MissionItems_2.d:129,""magischer Formeln, die sich alle auf die "",,,,ItWrFokusbuch.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_2.d:130,Verwendung sogenannter Fokus-Steine beziehen.,,,,ItWrFokusbuch.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_2.d:153,Kapitel 23,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_2.d:156,Die gebündelte Macht,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_2.d:158,"Die im Inneren des Steins ruhende und ständige wachsende Kraft wird durch die Worte des Magiers freigesetzt. Beständig oder auf einen Schlag, das liegt alleine im seinem Ermessen. ",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_2.d:160,"Zugleich wird der Fokus jedoch frei von der Macht, er ist nunmehr eine leere Hülle.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_2.d:165,"Die Worte der Macht, um  die in einem Fokus aufbewahrte Energie freizulassen sind vielen Künstlern der arkanen Kraft zugänglich. Auch einen neues Artefakt mit Energie zu füllen ist mehr magische Gepflogenheit geworden denn ein Geheimnis der Wissenden. ",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_2.d:167,"Doch einen gebrauchten Fokusstein wieder erneut aufzuladen, verstehen nur Auserwählte.Diese Formel aus uralten Tagen dient als Zeichen der hohen Gabe.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_2.d:158,""Die im Inneren des Steins ruhende und ständige wachsende Kraft wird durch die Worte des Magiers freigesetzt. Beständig oder auf einen Schlag, das liegt alleine im seinem Ermessen. "",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_2.d:160,""Zugleich wird der Fokus jedoch frei von der Macht, er ist nunmehr eine leere Hülle."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_2.d:165,""Die Worte der Macht, um  die in einem Fokus aufbewahrte Energie freizulassen sind vielen Künstlern der arkanen Kraft zugänglich. Auch einen neues Artefakt mit Energie zu füllen ist mehr magische Gepflogenheit geworden denn ein Geheimnis der Wissenden. "",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_2.d:167,""Doch einen gebrauchten Fokusstein wieder erneut aufzuladen, verstehen nur Auserwählte.Diese Formel aus uralten Tagen dient als Zeichen der hohen Gabe."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_2.d:169,So dann Wissender öffne deinen Geist für die Worte alter Macht,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_3.d:14,Pergamenthäfte,,,,OrkParchmentOne.name,,
 _work/Data/Scripts/content/Items/MissionItems_3.d:29,ein Teil eines uralten Pergaments,,,,OrkParchmentOne.text[0],,
@@ -514,22 +514,22 @@ _work/Data/Scripts/content/Items/MissionItems_3.d:76,öffnet die Truhe im Alchem
 _work/Data/Scripts/content/Items/MissionItems_3.d:77,des Sumpflagers,,,,ITKE_PSI_KALOM_01.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:88,Fokuskarte von Saturas,,,,ItWrFocimap.name,,
 _work/Data/Scripts/content/Items/MissionItems_3.d:102,Die Spitzen des Pentagramms markieren die,,,,ItWrFocimap.text[0],,
-_work/Data/Scripts/content/Items/MissionItems_3.d:103,"Orte aller fünf Fokussteine, die damals bei",,,,ItWrFocimap.text[1],,
+_work/Data/Scripts/content/Items/MissionItems_3.d:103,""Orte aller fünf Fokussteine, die damals bei"",,,,ItWrFocimap.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:104,der Erschaffung der magischen Barriere,,,,ItWrFocimap.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:105,verwendet wurden. Die Karte ist alt und die,,,,ItWrFocimap.text[3],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:106,Steine könnten mittlerweile,,,,ItWrFocimap.text[4],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:107,an anderen Orten liegen,,,,ItWrFocimap.text[5],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:127,Tagebuch-Seite,,,,ItWr_Troll_01.name,,
-_work/Data/Scripts/content/Items/MissionItems_3.d:141,"Eine stark verwitterte Seite, deren Schrift man",,,,ItWr_Troll_01.text[1],,
+_work/Data/Scripts/content/Items/MissionItems_3.d:141,""Eine stark verwitterte Seite, deren Schrift man"",,,,ItWr_Troll_01.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:142,kaum noch entziffern kann.,,,,ItWr_Troll_01.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:143,Der ehemalige Besitzer scheint ein Trolljäger,,,,ItWr_Troll_01.text[3],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:144,gewesen zu sein.,,,,ItWr_Troll_01.text[4],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:156,169. Tag,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_3.d:160,Heute werde ich es schaffen. Ich weiß es. Die Götter stehen mir bei. Ich habe alles versucht einen Troll zu töten. Härtester Stahl zeigte keine Wirkung und Pfeile prallten von ihm ab als wäre seine Haut aus Stein.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_3.d:162,"Nun werde ich mich dieser magischen Spruchrolle bedienen, die mir der Händler in Khorinis verkauft hat. Sie hat mich 50 Goldstücke gekostet, aber der Gewinn, den ich durch die Trophäen bekomme, wird mich reich machen.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_3.d:162,""Nun werde ich mich dieser magischen Spruchrolle bedienen, die mir der Händler in Khorinis verkauft hat. Sie hat mich 50 Goldstücke gekostet, aber der Gewinn, den ich durch die Trophäen bekomme, wird mich reich machen."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_3.d:164,Heute werde ich einen Troll töten.,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_3.d:173,Fokus aus der Trollschlucht,,,,Focus_2.name,,
-_work/Data/Scripts/content/Items/MissionItems_3.d:187,"Einer der fünf Foki, die zur Erschaffung",,,,Focus_2.text[1],,
+_work/Data/Scripts/content/Items/MissionItems_3.d:187,""Einer der fünf Foki, die zur Erschaffung"",,,,Focus_2.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:188,der magischen Barriere benutzt wurden.,,,,Focus_2.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:196,Truhenschlüssel,,,,ItKe_BERG_01.name,,
 _work/Data/Scripts/content/Items/MissionItems_3.d:206,Alte Bergfestung,,,,ItKe_BERG_01.text[0],,
@@ -542,40 +542,40 @@ _work/Data/Scripts/content/Items/MissionItems_3.d:232,Gebietsanspruch der Bergfe
 _work/Data/Scripts/content/Items/MissionItems_3.d:233,geltend zu machen.,,,,ItWr_Urkunde_01.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:234,Wert                                   400 Pfund Gold,,,,ItWr_Urkunde_01.text[5],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:246,Urkunde,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_3.d:250,"Ich, Bergmar Burggraf zu Westfeld und meines Herren zu Tymoris Landrichter über das Gut in dem Gebiet um Khorinis gelegen, ... tue kund, ... das ich ... dem Besitzer dieser Urkunde ... und dem Innoshaus daselbst das Lehen auf der Bergfeste (mitsamt weiteren Zehenten und allen dort befindlichen Minen) aufgegeben und verkauft habe um 400 Pfund Gold.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_3.d:250,""Ich, Bergmar Burggraf zu Westfeld und meines Herren zu Tymoris Landrichter über das Gut in dem Gebiet um Khorinis gelegen, ... tue kund, ... das ich ... dem Besitzer dieser Urkunde ... und dem Innoshaus daselbst das Lehen auf der Bergfeste (mitsamt weiteren Zehenten und allen dort befindlichen Minen) aufgegeben und verkauft habe um 400 Pfund Gold."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_3.d:259,Brief,,,,Fakescroll.name,,
 _work/Data/Scripts/content/Items/MissionItems_3.d:284,Fokus aus der Bergfestung,,,,Focus_3.name,,
-_work/Data/Scripts/content/Items/MissionItems_3.d:298,"Einer der fünf Foki, die zur Erschaffung",,,,Focus_3.text[1],,
+_work/Data/Scripts/content/Items/MissionItems_3.d:298,""Einer der fünf Foki, die zur Erschaffung"",,,,Focus_3.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:299,der magischen Barriere benutzt wurden.,,,,Focus_3.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:307,Schlüssel,,,,ItKe_Focus4.name,,
 _work/Data/Scripts/content/Items/MissionItems_3.d:318,Dieser Schlüssel stammt aus einer,,,,ItKe_Focus4.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:319,Höhle vor der Klosterruine,,,,ItKe_Focus4.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:327,Fokus aus der Klosterruine,,,,Focus_4.name,,
-_work/Data/Scripts/content/Items/MissionItems_3.d:340,"Einer der fünf Foki, die zur Erschaffung",,,,Focus_4.text[1],,
+_work/Data/Scripts/content/Items/MissionItems_3.d:340,""Einer der fünf Foki, die zur Erschaffung"",,,,Focus_4.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:341,der magischen Barriere benutzt wurden.,,,,Focus_4.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:349,orkischer Talisman,,,,ItMi_OrcTalisman.name,,
 _work/Data/Scripts/content/Items/MissionItems_3.d:388,Schlüssel,,,,ItKe_Focus5.name,,
 _work/Data/Scripts/content/Items/MissionItems_3.d:399,Dieser Schlüssel stammt aus der,,,,ItKe_Focus5.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:400,Gruft unter dem Steinkreis,,,,ItKe_Focus5.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:408,Fokus unter dem Stonehenge,,,,Focus_5.name,,
-_work/Data/Scripts/content/Items/MissionItems_3.d:421,"Einer der fünf Foki, die zur Erschaffung",,,,Focus_5.text[1],,
+_work/Data/Scripts/content/Items/MissionItems_3.d:421,""Einer der fünf Foki, die zur Erschaffung"",,,,Focus_5.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_3.d:422,der magischen Barriere benutzt wurden.,,,,Focus_5.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_4.d:14,Arkanum Golum - Band I,,,,ItWr_GolemBook1.name,,
 _work/Data/Scripts/content/Items/MissionItems_4.d:41,ARKANUM GOLUM - Band I,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_4.d:43,(Magie der Golems),,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_4.d:45,"Nur wer schon einmal einem dieser aus den Elementen erschaffenen Kreaturen begegnet ist, wird wirklich verstehen, welchen Respekt diese magieschen Wesen einem abenteuerlustigen Wanderer einflößen können.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_4.d:45,""Nur wer schon einmal einem dieser aus den Elementen erschaffenen Kreaturen begegnet ist, wird wirklich verstehen, welchen Respekt diese magieschen Wesen einem abenteuerlustigen Wanderer einflößen können."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_4.d:50,Steingolem,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_4.d:52,"Diese steinernen Kolosse sind im Kampf fast unverwundbar. Schwerter, Äxte und Bögen scheinen diesen Monstren nichts anhaben zu können.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_4.d:54,"Der einzige glaubhafte Bericht von der Bezwingung eines solchen Leviathans stammt von einem Söldner. Er schrieb davon, wie der stumpfe Aufprall seines Kriegshammers Risse in den Golem trieb, bis dieser schlußendlich zerbarst.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_4.d:52,""Diese steinernen Kolosse sind im Kampf fast unverwundbar. Schwerter, Äxte und Bögen scheinen diesen Monstren nichts anhaben zu können."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_4.d:54,""Der einzige glaubhafte Bericht von der Bezwingung eines solchen Leviathans stammt von einem Söldner. Er schrieb davon, wie der stumpfe Aufprall seines Kriegshammers Risse in den Golem trieb, bis dieser schlußendlich zerbarst."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_4.d:61,Arkanum Golum - Band II,,,,ItWr_GolemBook2.name,,
 _work/Data/Scripts/content/Items/MissionItems_4.d:89,ARKANUM GOLUM - Band II,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_4.d:92,Eisgolem,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/MissionItems_4.d:94,"Den Steingolems verwandt sind die Eisgolems, deren physische Substanz jedoch völlig aus gefrorenem Wasser zu bestehen scheint. Jede uns bekannte Waffe scheint an der glatten Oberfläche dieser eisigen Wesen abzugleiten.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_4.d:95,"Auch sei der abenteuerlustige Wanderer gewarnt vor dem Eisatem dieser Kreatur, schließt sie doch jeden Ahnungslosen im Nu in einer Säule aus Eis ein.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_4.d:99,"Einst berichtete ein Feuermagier von der Begegnung mit einem solchen Geschöpf, doch schien er keine ernste Bedrohung darin erkannt zu haben.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_4.d:94,""Den Steingolems verwandt sind die Eisgolems, deren physische Substanz jedoch völlig aus gefrorenem Wasser zu bestehen scheint. Jede uns bekannte Waffe scheint an der glatten Oberfläche dieser eisigen Wesen abzugleiten."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_4.d:95,""Auch sei der abenteuerlustige Wanderer gewarnt vor dem Eisatem dieser Kreatur, schließt sie doch jeden Ahnungslosen im Nu in einer Säule aus Eis ein."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_4.d:99,""Einst berichtete ein Feuermagier von der Begegnung mit einem solchen Geschöpf, doch schien er keine ernste Bedrohung darin erkannt zu haben."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_4.d:101,Feuergolem,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/MissionItems_4.d:103,Berichten zufolge können diese feurigen Geschöpfe ihre Opfer mit nur einer Berührung in ein Flammenmeer verwandeln.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/MissionItems_4.d:104,"Erst im letzten Jahr stieß eine Jagdgruppe im Hochland auf solch einen wandelnden Gluthaufen. Der Ausgang ist unklar, doch sollen Blitze und Eis die Höllenkreatur gestoppt haben.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/MissionItems_4.d:104,""Erst im letzten Jahr stieß eine Jagdgruppe im Hochland auf solch einen wandelnden Gluthaufen. Der Ausgang ist unklar, doch sollen Blitze und Eis die Höllenkreatur gestoppt haben."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/MissionItems_4.d:113,Karte,,,,ItWrWorldmap_Orc.name,,
 _work/Data/Scripts/content/Items/MissionItems_4.d:126,Karte der Kolonie (ergänzt),,,,ItWrWorldmap_Orc.description,,
 _work/Data/Scripts/content/Items/MissionItems_4.d:127,Ur-Shak der Ork-Schamane hat das,,,,ItWrWorldmap_Orc.text[0],,
@@ -592,7 +592,7 @@ _work/Data/Scripts/content/Items/MissionItems_5.d:15,Karte,,,,ItWrTemplemap.name
 _work/Data/Scripts/content/Items/MissionItems_5.d:28,Skizze des Tempels,,,,ItWrTemplemap.description,,
 _work/Data/Scripts/content/Items/MissionItems_5.d:49,Horn,,,,ItMiAlarmhorn.name,,
 _work/Data/Scripts/content/Items/MissionItems_5.d:81,Statuette,,,,ItMi_Stuff_Idol_Sleeper_01.name,,
-_work/Data/Scripts/content/Items/MissionItems_5.d:92,"Diese Figur stellt ein unförmiges Wesen dar,",,,,ItMi_Stuff_Idol_Sleeper_01.text[0],,
+_work/Data/Scripts/content/Items/MissionItems_5.d:92,""Diese Figur stellt ein unförmiges Wesen dar,"",,,,ItMi_Stuff_Idol_Sleeper_01.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:93,das eine Maske trägt.,,,,ItMi_Stuff_Idol_Sleeper_01.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:94,Die Maske wird von 6 großen Stacheln umsäumt,,,,ItMi_Stuff_Idol_Sleeper_01.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:102,Weltenspalter,,,,Weltenspalter.name,,
@@ -634,19 +634,19 @@ _work/Data/Scripts/content/Items/MissionItems_5.d:242,Sonderbares Schwert,,,,Myt
 _work/Data/Scripts/content/Items/MissionItems_5.d:257,Ein wundervoll gefertigtes Schwert.,,,,Mythrilklinge.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:258,Uralte Runen wurden in die Klinge eingraviert.,,,,Mythrilklinge.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:259,Vielleicht kann Xardas diese Runen entziffern!,,,,Mythrilklinge.text[2],,
-_work/Data/Scripts/content/Items/MissionItems_5.d:260,"Bevor er das Schwert nicht identifiziert hat,",,,,Mythrilklinge.text[3],,
+_work/Data/Scripts/content/Items/MissionItems_5.d:260,""Bevor er das Schwert nicht identifiziert hat,"",,,,Mythrilklinge.text[3],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:261,lege ich es besser nicht an.,,,,Mythrilklinge.text[4],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:269,URIZIEL,,,,Mythrilklinge01.name,,
 _work/Data/Scripts/content/Items/MissionItems_5.d:285,Xardas sagt das Schwert heißt URIZIEL und soll,,,,Mythrilklinge01.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:286,uralt sein. Vor langem hat es große Kräfte,,,,Mythrilklinge01.text[1],,
-_work/Data/Scripts/content/Items/MissionItems_5.d:287,"besessen, doch es hat seine Magie verloren.",,,,Mythrilklinge01.text[2],,
+_work/Data/Scripts/content/Items/MissionItems_5.d:287,""besessen, doch es hat seine Magie verloren."",,,,Mythrilklinge01.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:299,URIZIEL,,,,Mythrilklinge02.name,,
 _work/Data/Scripts/content/Items/MissionItems_5.d:320,Dies ist das Schwert Uriziel.,,,,Mythrilklinge02.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:321,Uriziel ist magisch geladen,,,,Mythrilklinge02.text[1],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:333,URIZIEL,,,,Mythrilklinge03.name,,
 _work/Data/Scripts/content/Items/MissionItems_5.d:349,Der magische Edelstein  wurde aus der Klinge,,,,Mythrilklinge03.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:350,entfernt. Es ist immer noch eine exzellente,,,,Mythrilklinge03.text[1],,
-_work/Data/Scripts/content/Items/MissionItems_5.d:351,"Waffe, aber hat seine Kräfte eingebüßt.",,,,Mythrilklinge03.text[2],,
+_work/Data/Scripts/content/Items/MissionItems_5.d:351,""Waffe, aber hat seine Kräfte eingebüßt."",,,,Mythrilklinge03.text[2],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:362,Machttausch,,,,Scroll4Milten.name,,
 _work/Data/Scripts/content/Items/MissionItems_5.d:374,Zauber um magische Kraft auf Uriziel,,,,Scroll4Milten.text[0],,
 _work/Data/Scripts/content/Items/MissionItems_5.d:375,zu übertragen.,,,,Scroll4Milten.text[1],,
@@ -714,7 +714,7 @@ _work/Data/Scripts/content/Items/Ranged_weapons.d:516,Schwere Armbrust,,,,ItRw_C
 _work/Data/Scripts/content/Items/Ranged_weapons.d:540,Kriegs-Armbrust,,,,ItRw_Crossbow_04.name,,
 _work/Data/Scripts/content/Items/Ranged_weapons.d:567,Pfeil,,,,ItAmArrow.name,,
 _work/Data/Scripts/content/Items/Ranged_weapons.d:589,Bolzen,,,,ItAmBolt.name,,
-_work/Data/Scripts/content/Items/Ringe.d:18," Flammenschutzring",,,,Schutzring_Feuer1.description,,
+_work/Data/Scripts/content/Items/Ringe.d:18,"" Flammenschutzring"",,,,Schutzring_Feuer1.description,,
 _work/Data/Scripts/content/Items/Ringe.d:59,Schutz vor Feuer,,,,Schutzring_Feuer2.description,,
 _work/Data/Scripts/content/Items/Ringe.d:100,Ring der Holzhaut,,,,Schutzring_Geschosse1.description,,
 _work/Data/Scripts/content/Items/Ringe.d:141,Ring der Steinhaut,,,,Schutzring_Geschosse2.description,,
@@ -765,7 +765,7 @@ _work/Data/Scripts/content/Items/Weapons.d:705,Herrscherstab,,,,Heerscherstab.na
 _work/Data/Scripts/content/Items/Written.d:5,Der erste Kreis,,,,ItWr_Book_Circle_01.name,,
 _work/Data/Scripts/content/Items/Written.d:16,Der erste Kreis der Magie,,,,ItWr_Book_Circle_01.description,,
 _work/Data/Scripts/content/Items/Written.d:42,Erster Kreis,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:46,"Als die Götter den Menschen die Fähigkeit zur Magie schenkten, schenkten sie ihnen auch das Wissen magische Runen herzustellen. Die Diener der Götter haben die ehrenvolle Aufgabe übernommen, diese Artefakte göttlicher Macht zu erschaffen und zu benutzen, wobei der Kreis des Magiers bestimmt, welche Zauber er in der Lage ist zu verstehen und anzuwenden. ",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:46,""Als die Götter den Menschen die Fähigkeit zur Magie schenkten, schenkten sie ihnen auch das Wissen magische Runen herzustellen. Die Diener der Götter haben die ehrenvolle Aufgabe übernommen, diese Artefakte göttlicher Macht zu erschaffen und zu benutzen, wobei der Kreis des Magiers bestimmt, welche Zauber er in der Lage ist zu verstehen und anzuwenden. "",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:53,Licht,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:55,Das erste Geschenk Innos an die Menschen.Eine hell strahlende Kugel wird über dem Magier erzeugt.,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:58,Eispfeil,,,,,,Doc_PrintLine call.
@@ -778,32 +778,32 @@ _work/Data/Scripts/content/Items/Written.d:110,Zweiter Kreis,,,,,,Doc_PrintLine 
 _work/Data/Scripts/content/Items/Written.d:115,Alle Zauber werden durch die magische Energie des Anwenders ausgelöst.Der Anwender wird als Magier bezeichnet.,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:118,Jede Aktivierung eines Zaubers kostet den Magier einen Teil seiner Kraft. diese Kraft wird als Mana bezeichnet.,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:126,Heilung,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:128,"Adanos sah, das die Menschen starben und das es der Wille Beliars war.Und er sprach:Stelle ich mich auch nicht gegen den Willen Beliars,gebe ich den Menschen jedoch die Macht der Heilung.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:131,"Dieser Zauber birgt die Macht, den Magier zu heilen.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:128,""Adanos sah, das die Menschen starben und das es der Wille Beliars war.Und er sprach:Stelle ich mich auch nicht gegen den Willen Beliars,gebe ich den Menschen jedoch die Macht der Heilung."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:131,""Dieser Zauber birgt die Macht, den Magier zu heilen."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:132,Investierungszauber,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:143,Der dritte Kreis,,,,ItWr_Book_Circle_03.name,,
 _work/Data/Scripts/content/Items/Written.d:154,Der dritte Kreis der Magie,,,,ItWr_Book_Circle_03.description,,
 _work/Data/Scripts/content/Items/Written.d:182,Dritter Kreis,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:187,"Manche Zauber können mit einer bestimmten größeren Anzahl von magischer Energie gespeist werden, diese werden auch Aufladungszauber genannt.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:189,"Andere Zauber werden aufrechterhalten, solange der Magier sein Mana in dieses Spruch einfliessen lässt. Solche Zauber heissen Investierungszauber.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:187,""Manche Zauber können mit einer bestimmten größeren Anzahl von magischer Energie gespeist werden, diese werden auch Aufladungszauber genannt."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:189,""Andere Zauber werden aufrechterhalten, solange der Magier sein Mana in dieses Spruch einfliessen lässt. Solche Zauber heissen Investierungszauber."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:195,Feuerball,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:197,"Das zweite Geschenk Innos an die Kinder des Feuers. Ein Ball aus Feuer, der sein Opfer verbrennt",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:197,""Das zweite Geschenk Innos an die Kinder des Feuers. Ein Ball aus Feuer, der sein Opfer verbrennt"",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:198,Auladbarer Zauber,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:201,Eisblock,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:203,Das Opfer wird in einen Eisblock eingefroren. Ein Zauber aus dem Tempel der Wassermagier,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:207,Kugelblitz,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:209,"Eine Kugel, geschaffen aus magischer Energie.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:209,""Eine Kugel, geschaffen aus magischer Energie."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:219,Der vierte Kreis,,,,ItWr_Book_Circle_04.name,,
 _work/Data/Scripts/content/Items/Written.d:230,Der vierte Kreis der Magie,,,,ItWr_Book_Circle_04.description,,
 _work/Data/Scripts/content/Items/Written.d:257,Vierter Kreis,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:261,Die Magie,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:262,der Teleportation,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:266,"Das besondere an diesen magischen Formeln ist, das sie, obwohl als Runen geschaffen,von jedem der magische Energie in sich trägt gesprochen werden können.Die Magie die diese Formeln umgibt, kann sofort aktiviert werden. Es gibt keine Einschränkungen für Teleportationszauber.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:266,""Das besondere an diesen magischen Formeln ist, das sie, obwohl als Runen geschaffen,von jedem der magische Energie in sich trägt gesprochen werden können.Die Magie die diese Formeln umgibt, kann sofort aktiviert werden. Es gibt keine Einschränkungen für Teleportationszauber."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:273,Feuersturm,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:275,"Ähnlich dem Feuerball wirkt dieser Zauber auf einen Gegner, springt von dort aus jedoch auf weitere Gegner über.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:275,""Ähnlich dem Feuerball wirkt dieser Zauber auf einen Gegner, springt von dort aus jedoch auf weitere Gegner über."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:276,Aufladbarer Zauber,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:279,Blitz,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:281,"Der Zauber springt auf mehrere Opfer über. Die Kraft des Blitzes ist schwer zu kontrollieren, so das der Magier selbst Opfer werden kann",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:281,""Der Zauber springt auf mehrere Opfer über. Die Kraft des Blitzes ist schwer zu kontrollieren, so das der Magier selbst Opfer werden kann"",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:284,Untote vernichten,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:286,Die Geschöpfe der Finsternis werden mit diesem Zauber verbannt.,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:295,Der fünfte Kreis,,,,ItWr_Book_Circle_05.name,,
@@ -818,139 +818,139 @@ _work/Data/Scripts/content/Items/Written.d:355,Der sechste Kreis,,,,ItWr_Book_Ci
 _work/Data/Scripts/content/Items/Written.d:366,Sechster Kreis der Magie,,,,ItWr_Book_Circle_06.description,,
 _work/Data/Scripts/content/Items/Written.d:391,Sechster Kreis,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:397,Todeshauch,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:399,"Der Atem Beliars. Eine Wolke aus Lebenverschlingendem Nichts, die jedes Wesen augenblicklich töten kann.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:399,""Der Atem Beliars. Eine Wolke aus Lebenverschlingendem Nichts, die jedes Wesen augenblicklich töten kann."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:408,Todesring,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:410,Nicht viel ist überliefert über die Rune mit der Macht von URIZIEL,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:411,"Es ist nur soviel bekannt, als das sie Beliars Mächte in sich birgt.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:411,""Es ist nur soviel bekannt, als das sie Beliars Mächte in sich birgt."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:423,Göttergabe,,,,Goettergabe.name,,
 _work/Data/Scripts/content/Items/Written.d:434,Die Gabe der Götter,,,,Goettergabe.description,,
 _work/Data/Scripts/content/Items/Written.d:463,Magie,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:468,Die Gabe der Götter,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:470,"Seit Jahrhunderten versucht man das Wesen und den Ursprung der Magie zu ergründen. Doch wo soll man suchen? Wie kann man sie beschreiben? Sie ist die widersprüchlichste Kraft, die wir kennen. Sie kann töten und gleichzeitig heilen, Sie kann formen und zerstören.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:479,"Wie sieht eine solche Kraft aus ? Wo kann man diese unsichtbare und doch so mächtige Kraft finden? Die Magie ist das, was sie ist. Das herrlichste und zugleich mächtigste Geschenk der Götter. Dem Nutzer und Wirker dieser Kraft ist damit auch ein göttliches Geschenk gegeben. Eine heilige Kraft, die nur wenige Auserwählte in der Lage sind zu kontrollieren.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:470,""Seit Jahrhunderten versucht man das Wesen und den Ursprung der Magie zu ergründen. Doch wo soll man suchen? Wie kann man sie beschreiben? Sie ist die widersprüchlichste Kraft, die wir kennen. Sie kann töten und gleichzeitig heilen, Sie kann formen und zerstören."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:479,""Wie sieht eine solche Kraft aus ? Wo kann man diese unsichtbare und doch so mächtige Kraft finden? Die Magie ist das, was sie ist. Das herrlichste und zugleich mächtigste Geschenk der Götter. Dem Nutzer und Wirker dieser Kraft ist damit auch ein göttliches Geschenk gegeben. Eine heilige Kraft, die nur wenige Auserwählte in der Lage sind zu kontrollieren."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:481,Barthos von Laran,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:488,Geheimnisse der Zauberei,,,,Geheimnisse_der_Zauberei.name,,
 _work/Data/Scripts/content/Items/Written.d:499,Geheimnisse der Zauberei,,,,Geheimnisse_der_Zauberei.description,,
 _work/Data/Scripts/content/Items/Written.d:531,Geheimnisse der Zauberei,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:534,"Dem Magus selbst wohnt wohl keine Magie inne, er ist vielmehr in der Lage sich ihrer zu bedienen. Er selbst hat ausschließlich die Fähigkeit die Magie zu beeinflussen und zu lenken. Der in der Hohen Kunst der Magie eingeweihte Adept muss in der Lage sein, seinen Geist als Werkzeug zu benutzen",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:542,"Sein Geist ist es, der die allumgebene Arkane Kraft sammelt, sie formt, bündelt und letztendlich in die uns zugängliche Welt entlässt. Während dieser Zeit höchster Konzentration gelingt es dem Magus mit seinem Geist unsere Sphäre zu durchdringen und auf die Andere Seite zu blicken, von dort kommt die Kraft, der Magus selbst ist nur Leiter und Former dieser Kraft.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:534,""Dem Magus selbst wohnt wohl keine Magie inne, er ist vielmehr in der Lage sich ihrer zu bedienen. Er selbst hat ausschließlich die Fähigkeit die Magie zu beeinflussen und zu lenken. Der in der Hohen Kunst der Magie eingeweihte Adept muss in der Lage sein, seinen Geist als Werkzeug zu benutzen"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:542,""Sein Geist ist es, der die allumgebene Arkane Kraft sammelt, sie formt, bündelt und letztendlich in die uns zugängliche Welt entlässt. Während dieser Zeit höchster Konzentration gelingt es dem Magus mit seinem Geist unsere Sphäre zu durchdringen und auf die Andere Seite zu blicken, von dort kommt die Kraft, der Magus selbst ist nur Leiter und Former dieser Kraft."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:545,Barthos von Laran,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:552,Machtvolle Kunst,,,,Machtvolle_Kunst.name,,
 _work/Data/Scripts/content/Items/Written.d:563,Machtvolle Kunst,,,,Machtvolle_Kunst.description,,
 _work/Data/Scripts/content/Items/Written.d:595,Machtvolle Kunst,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:599,Ein Werk für den Eingweihten der Arkanen Kunst,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:602,"Die Fähigkeiten die göttliche Macht zu kanalisieren wächst in dem Magier. Anfangs keimt sie nur wie ein kleiner Schössling auf dem Feld und man muss ihn pflegen, damit er nicht verkümmert. Doch wenn dieser Schössling erst einmal herangewachsen ist, entfaltet er seine volle Pracht",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:611,"Er wächst und wächst und wird stärker mit jedem Tag. So ergeht es auch dem gelehrigen Magus. Seine anfänglich sehr geringen Kräfte wachsen und gedeihen und entfalten mit der Zeit eine Macht, die in ihrer Vollendung nicht absehbar ist. Diese Macht zu ihrer höchsten Vollendung zu führen ist die heilige Pflicht eines jeden Magus, denn dieser Schößling gesät von den Göttern selbst ist das größte Geschenk, welches ein Sterblicher empfangen kann.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:602,""Die Fähigkeiten die göttliche Macht zu kanalisieren wächst in dem Magier. Anfangs keimt sie nur wie ein kleiner Schössling auf dem Feld und man muss ihn pflegen, damit er nicht verkümmert. Doch wenn dieser Schössling erst einmal herangewachsen ist, entfaltet er seine volle Pracht"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:611,""Er wächst und wächst und wird stärker mit jedem Tag. So ergeht es auch dem gelehrigen Magus. Seine anfänglich sehr geringen Kräfte wachsen und gedeihen und entfalten mit der Zeit eine Macht, die in ihrer Vollendung nicht absehbar ist. Diese Macht zu ihrer höchsten Vollendung zu führen ist die heilige Pflicht eines jeden Magus, denn dieser Schößling gesät von den Göttern selbst ist das größte Geschenk, welches ein Sterblicher empfangen kann."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:618,Elementare Arcanei,,,,Elementare_Arcanei.name,,
 _work/Data/Scripts/content/Items/Written.d:629,Elementare Arcanei,,,,Elementare_Arcanei.description,,
 _work/Data/Scripts/content/Items/Written.d:662,Elementare Arcanei,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:666,Einordung der Magie in das Gefüge des Irdischen,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:669,"Viel wurde geforscht über die Magie und ihrer Stellung zu den Elementen. Man kann mit Fug und Recht behaupten, dass die Magie als das absolute Element angesehen werden kann. Sie hat die Macht alle Elmente zu verändern und zu formen und ist ihnen somit augenscheinlich übergestellt.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:679,"Eine Verbindung von Element und Magie bringt jedes Element in seiner reinsten Form zutage, so gibt es an wenigen Stellen natürliche Vorkommen solcher Verbindungen und sie sind gar sehr begehrt. Auch die Fähigkeiten eines Magus Elemente scheinbar aus dem Nichts zu erschaffen sind Beweis, dass die magische Kraft das reinste und höchste Gut darstellt, das existiert.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:669,""Viel wurde geforscht über die Magie und ihrer Stellung zu den Elementen. Man kann mit Fug und Recht behaupten, dass die Magie als das absolute Element angesehen werden kann. Sie hat die Macht alle Elmente zu verändern und zu formen und ist ihnen somit augenscheinlich übergestellt."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:679,""Eine Verbindung von Element und Magie bringt jedes Element in seiner reinsten Form zutage, so gibt es an wenigen Stellen natürliche Vorkommen solcher Verbindungen und sie sind gar sehr begehrt. Auch die Fähigkeiten eines Magus Elemente scheinbar aus dem Nichts zu erschaffen sind Beweis, dass die magische Kraft das reinste und höchste Gut darstellt, das existiert."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:686,Wahre Macht,,,,Wahre_Macht.name,,
 _work/Data/Scripts/content/Items/Written.d:697,Wahre Macht,,,,Wahre_Macht.description,,
 _work/Data/Scripts/content/Items/Written.d:729,Wahre Macht,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:734,Die heilige Pflicht des Kundigen,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:737,"Es ist seine Macht, die den Magus von den normalen Menschen unterscheidet. Er, ausgestattet mit der Fähigkeit göttliche Kraft zu beeinflussen, ist ein Wesen, für welches die normalen Grenzen des Sterblichen nicht gelten müssen. ",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:748,"Hat der Magus erst einmal einen Grad erreicht, der es ihm ermöglicht die Grenzen seines Daseins zu sprengen, so kann er sich selbst auf eine Stufe über der des normalen Sterblichen stellen. Er kann Grenzen von Raum und Zeit durchdringen, selbst das Ende allen Seins, der Tod, ist kein Hindernis auf seinem Weg.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:737,""Es ist seine Macht, die den Magus von den normalen Menschen unterscheidet. Er, ausgestattet mit der Fähigkeit göttliche Kraft zu beeinflussen, ist ein Wesen, für welches die normalen Grenzen des Sterblichen nicht gelten müssen. "",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:748,""Hat der Magus erst einmal einen Grad erreicht, der es ihm ermöglicht die Grenzen seines Daseins zu sprengen, so kann er sich selbst auf eine Stufe über der des normalen Sterblichen stellen. Er kann Grenzen von Raum und Zeit durchdringen, selbst das Ende allen Seins, der Tod, ist kein Hindernis auf seinem Weg."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:757,Das magische Erz,,,,Das_magische_Erz.name,,
 _work/Data/Scripts/content/Items/Written.d:768,Das magische Erz,,,,Das_magische_Erz.description,,
 _work/Data/Scripts/content/Items/Written.d:799,Vom Erz,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:803,"Das beste Erz zum Schmieden einer Waffe findet man zweifelsohne in den Erzminen bei Khorinis. Es ist von elementarer Reinheit und durchtränkt von Magie. Es ist von unvergleichlicher Härte und doch so weich, dass es nicht bricht. Eine Waffe geschmiedet aus jenem Stahl, der unter unsagbar hohen Aufwand aus den tiefen Minen gewonnen wird, ist mit keiner Klinge und sei sie aus dem noch so besten Stahl gefertigt, zu vergleichen",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:810,". Kein Schild, den sie nicht brechen kann, kein Panzer, den sie nicht durchbohrt. Könige und Helden aus längst vergangen Tagen trugen Waffen aus bestem Khorinisstahl und in ganz Myrtana werden auch heute für solche Waffen die besten Preise erzielt. Doch wird für dieses Erz auch ein hoher Preis verlangt. Um es der Erde abzutrotzen muß großer Aufwand getrieben werden, denn es ist so, als wolle das Erz nicht aus dem Schoße der Erde entfliehen.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:803,""Das beste Erz zum Schmieden einer Waffe findet man zweifelsohne in den Erzminen bei Khorinis. Es ist von elementarer Reinheit und durchtränkt von Magie. Es ist von unvergleichlicher Härte und doch so weich, dass es nicht bricht. Eine Waffe geschmiedet aus jenem Stahl, der unter unsagbar hohen Aufwand aus den tiefen Minen gewonnen wird, ist mit keiner Klinge und sei sie aus dem noch so besten Stahl gefertigt, zu vergleichen"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:810,"". Kein Schild, den sie nicht brechen kann, kein Panzer, den sie nicht durchbohrt. Könige und Helden aus längst vergangen Tagen trugen Waffen aus bestem Khorinisstahl und in ganz Myrtana werden auch heute für solche Waffen die besten Preise erzielt. Doch wird für dieses Erz auch ein hoher Preis verlangt. Um es der Erde abzutrotzen muß großer Aufwand getrieben werden, denn es ist so, als wolle das Erz nicht aus dem Schoße der Erde entfliehen."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:822,Schlacht um Varant,,,,Schlacht_um_Varant1.name,,
 _work/Data/Scripts/content/Items/Written.d:833,Schlacht um Varant,,,,Schlacht_um_Varant1.description,,
 _work/Data/Scripts/content/Items/Written.d:834,Band 1,,,,Schlacht_um_Varant1.text[0],,
-_work/Data/Scripts/content/Items/Written.d:864,"... doch Feldherr Rhobar wählte den Angriff. Er versammelte sein Heer und stieß mit geballter Kraft gegen die schlechtgedeckte rechte Flanke des Feindes vor. Er hielt sich nicht lang mit den Geplänkeln auf, sondern stieß wie ein Schwert in die Seite des feindlichen Heeres und zerschnitt sie wie Papier. Immer weiter trieb er seine Mannen voran, immer weiter Richtung der Grenze von Varant. Er wusste, wenn er diese Schlacht gewinnen wollte, musste es ihm gelingen das feindliche Herr zu teilen und verhindern, dass sich Gellon und Lukkor ",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:870,"  vereinen und ihm den vernichtenden Schlag versetzen. Es musste ihm gelingen ihren Nachschub zu stören, dann war ihm der Sieg nicht mehr zu nehmen ...",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:872,"...Gellon war tot, seine Armee geschlagen, seine nun führerlosen Mannen auf der Flucht. Doch Rhobar war  gewillt dem Feind keine Chance zu geben sich zu sammeln und  befahl sofort den Aufbruch, um den Feind zu vernichten. Lukkor indes beschließt die Gunst der Stunde zu nutzen und  König Rhobars erschöpften Truppen den Todesstoß zu versetzen...",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:864,""... doch Feldherr Rhobar wählte den Angriff. Er versammelte sein Heer und stieß mit geballter Kraft gegen die schlechtgedeckte rechte Flanke des Feindes vor. Er hielt sich nicht lang mit den Geplänkeln auf, sondern stieß wie ein Schwert in die Seite des feindlichen Heeres und zerschnitt sie wie Papier. Immer weiter trieb er seine Mannen voran, immer weiter Richtung der Grenze von Varant. Er wusste, wenn er diese Schlacht gewinnen wollte, musste es ihm gelingen das feindliche Herr zu teilen und verhindern, dass sich Gellon und Lukkor "",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:870,""  vereinen und ihm den vernichtenden Schlag versetzen. Es musste ihm gelingen ihren Nachschub zu stören, dann war ihm der Sieg nicht mehr zu nehmen ..."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:872,""...Gellon war tot, seine Armee geschlagen, seine nun führerlosen Mannen auf der Flucht. Doch Rhobar war  gewillt dem Feind keine Chance zu geben sich zu sammeln und  befahl sofort den Aufbruch, um den Feind zu vernichten. Lukkor indes beschließt die Gunst der Stunde zu nutzen und  König Rhobars erschöpften Truppen den Todesstoß zu versetzen..."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:880,Schlacht um Varant,,,,Schlacht_um_Varant2.name,,
 _work/Data/Scripts/content/Items/Written.d:891,Schlacht um Varant,,,,Schlacht_um_Varant2.description,,
 _work/Data/Scripts/content/Items/Written.d:892,Band 2,,,,Schlacht_um_Varant2.text[0],,
-_work/Data/Scripts/content/Items/Written.d:922,"Der Krieg war entschieden. Varant seiner, für die Verorgung der Truppen so wichtigen,  Seehäfen beraubt. König Rhobar weilte schon lange nicht mehr auf den Schlachtfeldern von Varant, sondern überließ es seinen Generälen die letzten feindliche Truppen aufzureiben. Varant besaß nur noch ein größeres Heer, geführt von Lukkor, dem fähigsten Kriegsherrn des Varantener Heeres, mehr als einmal hatte er eine drohende Niederlage in einen Sieg verwandeln können",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:928,". Doch nun saß sein Heer in der Falle. Dem Heer des Feindes zwar zahlenmäßig überlegen doch in aussichtloser Position. Lee, der Kriegsheld von Myrtana hatte ihn in eine Falle gelockt. Seine schwere Reiterei konnte auf dem tiefen, sumpfigen Boden des engen Tals nicht kämpfen und die Hügelketten um ihn herum waren von Lee's Soldaten besetzt, die immer wieder zustießen und so sein Herr Mann um Mann dezimierten. Die verzweifelten Ausfälle seiner Mannen waren blutig zurückgeschlagen worden. Er war besiegt.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:922,""Der Krieg war entschieden. Varant seiner, für die Verorgung der Truppen so wichtigen,  Seehäfen beraubt. König Rhobar weilte schon lange nicht mehr auf den Schlachtfeldern von Varant, sondern überließ es seinen Generälen die letzten feindliche Truppen aufzureiben. Varant besaß nur noch ein größeres Heer, geführt von Lukkor, dem fähigsten Kriegsherrn des Varantener Heeres, mehr als einmal hatte er eine drohende Niederlage in einen Sieg verwandeln können"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:928,"". Doch nun saß sein Heer in der Falle. Dem Heer des Feindes zwar zahlenmäßig überlegen doch in aussichtloser Position. Lee, der Kriegsheld von Myrtana hatte ihn in eine Falle gelockt. Seine schwere Reiterei konnte auf dem tiefen, sumpfigen Boden des engen Tals nicht kämpfen und die Hügelketten um ihn herum waren von Lee's Soldaten besetzt, die immer wieder zustießen und so sein Herr Mann um Mann dezimierten. Die verzweifelten Ausfälle seiner Mannen waren blutig zurückgeschlagen worden. Er war besiegt."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:936,Myrtanas Lyrik,,,,Myrtanas_Lyrik.name,,
 _work/Data/Scripts/content/Items/Written.d:947,Myrtanas Lyrik,,,,Myrtanas_Lyrik.description,,
-_work/Data/Scripts/content/Items/Written.d:972,"    Das Lied der",,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:974,"		  Reue",,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:991,"Am Anfang war die Macht, rein und pur,",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:972,""    Das Lied der"",,,,,,Doc_PrintLine call.
+_work/Data/Scripts/content/Items/Written.d:974,""		  Reue"",,,,,,Doc_PrintLine call.
+_work/Data/Scripts/content/Items/Written.d:991,""Am Anfang war die Macht, rein und pur,"",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:993,heute bleibt nur noch das Echo vom alten Schwur.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:995,"Die Zeiten der Einheit schon lang dahin,",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:995,""Die Zeiten der Einheit schon lang dahin,"",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:997,nach Hab und Gut steht uns nun der Sinn.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:999,"Geteilt ist nun, was einst zusammen.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:999,""Geteilt ist nun, was einst zusammen."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1001,Verflucht der Geist der uns genommen.,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1003,Voll Sehnsucht sind der unsren Lieder.,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1005,Die Einigkeit kommt niemals wieder.,,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1012,Lehren der Götter Band1,,,,Lehren_der_Goetter1.name,,
 _work/Data/Scripts/content/Items/Written.d:1023,Lehren der Götter,,,,Lehren_der_Goetter1.description,,
 _work/Data/Scripts/content/Items/Written.d:1024,Band 1,,,,Lehren_der_Goetter1.text[0],,
-_work/Data/Scripts/content/Items/Written.d:1045,"Höre die Worte der Götter, denn es ist ihr Wille, dass sie gehört werden. Befolge die Lehren der Götter, denn es ist ihr Wille, dass sie befolgt werden. Achte die Priester der Götter, denn sie sind erwählt.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1048,"Die Worte Innos : Und möget ihr nicht verstehen, so zweifelt nicht an den Worten der Priester, ihr Tun ist gerecht und weise. Denn ich bin die aufgehende Sonne, das Licht und das Leben. Und alles was da wider der Sonne, ist wider mir und soll verbannt sein auf immer und ewig in die Schatten.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1053,"Die Worte Adanos: Arbeite und lebe, denn der Tag ist gemacht dafür, dass der Mensch arbeite. Suche das Lernen und Wissen, auf dass Du es weitergeben kannst, denn so bist Du geschaffen worden. Wer aber müßig und faul, der soll verbannt werden auf immer und ewig in die Schatten.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1056,"Die Worte Beliar: Wer aber handelt unrecht und gegen den Willen der Götter, den will ich strafen, den Körper mit Schmerz , Leid und Tod, den Geist werde ich aber zu mir nehmen auf immer und ewig in die Schatten. ",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1045,""Höre die Worte der Götter, denn es ist ihr Wille, dass sie gehört werden. Befolge die Lehren der Götter, denn es ist ihr Wille, dass sie befolgt werden. Achte die Priester der Götter, denn sie sind erwählt."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1048,""Die Worte Innos : Und möget ihr nicht verstehen, so zweifelt nicht an den Worten der Priester, ihr Tun ist gerecht und weise. Denn ich bin die aufgehende Sonne, das Licht und das Leben. Und alles was da wider der Sonne, ist wider mir und soll verbannt sein auf immer und ewig in die Schatten."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1053,""Die Worte Adanos: Arbeite und lebe, denn der Tag ist gemacht dafür, dass der Mensch arbeite. Suche das Lernen und Wissen, auf dass Du es weitergeben kannst, denn so bist Du geschaffen worden. Wer aber müßig und faul, der soll verbannt werden auf immer und ewig in die Schatten."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1056,""Die Worte Beliar: Wer aber handelt unrecht und gegen den Willen der Götter, den will ich strafen, den Körper mit Schmerz , Leid und Tod, den Geist werde ich aber zu mir nehmen auf immer und ewig in die Schatten. "",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1063,Lehren der Götter Band2,,,,Lehren_der_Goetter2.name,,
 _work/Data/Scripts/content/Items/Written.d:1074,Lehren der Götter,,,,Lehren_der_Goetter2.description,,
 _work/Data/Scripts/content/Items/Written.d:1075,Band 2,,,,Lehren_der_Goetter2.text[0],,
-_work/Data/Scripts/content/Items/Written.d:1096,"Vom Anbeginn der Zeit: Es ward noch kein Tag oder Nacht und kein Wesen zog über die Welt. Da erschien der Welt Innos und sein Licht erhellte alles. Und Innos schenkte der Welt das Leben. Da aber kein Wesen im Licht des Innos leben kann, schuf er die Sonne. Das Licht war aber noch zu stark. Da teilte sich Innos und schuf Beliar. Beliar brachte die Nacht. Nun konnten die Menschen sein. Da teilte sich Innos erneut und schuf Adanos. Adanos gab den Menschen die Vielseitigkeit, Wissen, Neugier und Mut. Innos war sehr zufrieden mit sich und seinem Werk.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1102,"Und er beschloss die Menschen Adanos ganz zu überlassen, um zu ruhen. Beliar aber wurde von Neid zerfressen, denn die Menschen beteten nicht zu ihm und ruhten des Nachts. Da wurde er zornig und er formte sich einen Menschen. Einen Menschen, der nur ihn anbeten sollte. Der Mensch aber ward genau so wie alle anderen Menschen. Beliar wurde so stark von Zorn erfüllt, dass er den Menschen tötete und sprach: Wenn sie mich nicht anbeten, dann sollen sie mich fürchten. Und er schuf den Tod und nahm den Menschen das Leben.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1096,""Vom Anbeginn der Zeit: Es ward noch kein Tag oder Nacht und kein Wesen zog über die Welt. Da erschien der Welt Innos und sein Licht erhellte alles. Und Innos schenkte der Welt das Leben. Da aber kein Wesen im Licht des Innos leben kann, schuf er die Sonne. Das Licht war aber noch zu stark. Da teilte sich Innos und schuf Beliar. Beliar brachte die Nacht. Nun konnten die Menschen sein. Da teilte sich Innos erneut und schuf Adanos. Adanos gab den Menschen die Vielseitigkeit, Wissen, Neugier und Mut. Innos war sehr zufrieden mit sich und seinem Werk."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1102,""Und er beschloss die Menschen Adanos ganz zu überlassen, um zu ruhen. Beliar aber wurde von Neid zerfressen, denn die Menschen beteten nicht zu ihm und ruhten des Nachts. Da wurde er zornig und er formte sich einen Menschen. Einen Menschen, der nur ihn anbeten sollte. Der Mensch aber ward genau so wie alle anderen Menschen. Beliar wurde so stark von Zorn erfüllt, dass er den Menschen tötete und sprach: Wenn sie mich nicht anbeten, dann sollen sie mich fürchten. Und er schuf den Tod und nahm den Menschen das Leben."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1109,Lehren der Götter Band3,,,,Lehren_der_Goetter3.name,,
 _work/Data/Scripts/content/Items/Written.d:1120,Lehren der Götter,,,,Lehren_der_Goetter3.description,,
 _work/Data/Scripts/content/Items/Written.d:1121,Band 3,,,,Lehren_der_Goetter3.text[0],,
-_work/Data/Scripts/content/Items/Written.d:1143,"Innos gab den Menschen die Macht ihn zu hören und zu ihm zu sprechen. Er gab ihnen die Macht große Wunder zu vollbringen. Und er nannte sie Magie. Mit dieser Macht konnten die Menschen die Welt frei nach ihrem Willen gestalten. Es gab keine Grenzen, die Innos ihnen aufzeigte. Und so hatten die Menschen Teil an der göttlichen Schöpferkraft. Aber die Menschen waren sich alle gleich und das gefiel ihnen nicht. Also nahm er denen die unzufrieden waren, die Kraft. Die wenigen, die sich dankbar zeigten, stellte Innos über alle anderen",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1148,"Diese Menschen wurden alsbald verehrt und gefürchtet und wurden Priester genannt. Doch auch unter ihnen gab es viele, die bald unzufrieden waren. Und so kam es, dass sie zu Adanos beteten und ihren Ursprung vergassen. Die Riege der Priester war gespalten. Kriege wurden entfesselt und auch der Glaube an die göttliche Allmacht war bald schon nur noch Mythos. So teilten sich die Priester. Die dem Adanos folgten nannte man nun Magier des Wassers, die Geweihten des Innos hießen aber die Magier des Feuers.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1143,""Innos gab den Menschen die Macht ihn zu hören und zu ihm zu sprechen. Er gab ihnen die Macht große Wunder zu vollbringen. Und er nannte sie Magie. Mit dieser Macht konnten die Menschen die Welt frei nach ihrem Willen gestalten. Es gab keine Grenzen, die Innos ihnen aufzeigte. Und so hatten die Menschen Teil an der göttlichen Schöpferkraft. Aber die Menschen waren sich alle gleich und das gefiel ihnen nicht. Also nahm er denen die unzufrieden waren, die Kraft. Die wenigen, die sich dankbar zeigten, stellte Innos über alle anderen"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1148,""Diese Menschen wurden alsbald verehrt und gefürchtet und wurden Priester genannt. Doch auch unter ihnen gab es viele, die bald unzufrieden waren. Und so kam es, dass sie zu Adanos beteten und ihren Ursprung vergassen. Die Riege der Priester war gespalten. Kriege wurden entfesselt und auch der Glaube an die göttliche Allmacht war bald schon nur noch Mythos. So teilten sich die Priester. Die dem Adanos folgten nannte man nun Magier des Wassers, die Geweihten des Innos hießen aber die Magier des Feuers."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1154,Jagd und Beute,,,,Jagd_und_Beute.name,,
 _work/Data/Scripts/content/Items/Written.d:1165,Jagd und Beute,,,,Jagd_und_Beute.description,,
-_work/Data/Scripts/content/Items/Written.d:1196,"Sein Schriftzeugnis hat die Zeiten überdauert und seine Ratschläge gelten als Lehrbuch der Jagdkunst. Nach den großen Schlachten im Norden ist es heute jedem Landsmann geläufig, wie man mit dem Bogen umzugehen hat. Jedoch gibt es bei der Jagd einige Regeln zu befolgen, die über den einfachen Umgang mit der Waffe hinaus gehen! Das Wild ist scheu und unberechenbar.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1202,"Die Kunst der Jagd mit dem Bogen verfügt nicht nur über die älteste Tradition, sondern ist auch die geläufigste aller denkbaren Jagdarten. Die Technik dieser Art der traditionellen Jagd hat sich im Lauf der Jahrtausende kaum verändert und wird sich wohl auch in Zukunft nicht ändern. Welche Umstände bestimmen wirklich den Ablauf der Jagd mit dem Bogen? Diese Gesetzmäßigkeiten erkannt zu haben, ist die eigentliche hohe Kunst der Bogenjagd.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1196,""Sein Schriftzeugnis hat die Zeiten überdauert und seine Ratschläge gelten als Lehrbuch der Jagdkunst. Nach den großen Schlachten im Norden ist es heute jedem Landsmann geläufig, wie man mit dem Bogen umzugehen hat. Jedoch gibt es bei der Jagd einige Regeln zu befolgen, die über den einfachen Umgang mit der Waffe hinaus gehen! Das Wild ist scheu und unberechenbar."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1202,""Die Kunst der Jagd mit dem Bogen verfügt nicht nur über die älteste Tradition, sondern ist auch die geläufigste aller denkbaren Jagdarten. Die Technik dieser Art der traditionellen Jagd hat sich im Lauf der Jahrtausende kaum verändert und wird sich wohl auch in Zukunft nicht ändern. Welche Umstände bestimmen wirklich den Ablauf der Jagd mit dem Bogen? Diese Gesetzmäßigkeiten erkannt zu haben, ist die eigentliche hohe Kunst der Bogenjagd."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1208,Kampfkunst,,,,Kampfkunst.name,,
 _work/Data/Scripts/content/Items/Written.d:1219,Kampfkunst,,,,Kampfkunst.description,,
 _work/Data/Scripts/content/Items/Written.d:1252,2000 Jahre lang bildeten diese Lehren des Meisters die Pfeiler bei der Entwicklung der Kampfkunst.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1255,"Geschult werden dabei die Beweglichkeit des Körpers, Ruhe und Schnelligkeit, Beobachtung und Reaktion. Die Bewegungen müssen gut koordiniert und die Körperhaltung korrekt sein, um die beste Entfaltung deiner Kraft zu erreichen.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1255,""Geschult werden dabei die Beweglichkeit des Körpers, Ruhe und Schnelligkeit, Beobachtung und Reaktion. Die Bewegungen müssen gut koordiniert und die Körperhaltung korrekt sein, um die beste Entfaltung deiner Kraft zu erreichen."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1262,Der Kern der geistigen und körperlichen Lehren des Meisters hat viele Jahre überlebt.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1265,"Sein einzigartiger Erfolg hat Generationen beeinflußt. Jahrtausende, in denen zwar die Welt ihr Äußeres schon oft verändert hat, in der aber eines für immer Bestand haben wird: Die Harmonie der inneren Kräfte mit der gezielten äußeren Bewegung des Körpers.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1265,""Sein einzigartiger Erfolg hat Generationen beeinflußt. Jahrtausende, in denen zwar die Welt ihr Äußeres schon oft verändert hat, in der aber eines für immer Bestand haben wird: Die Harmonie der inneren Kräfte mit der gezielten äußeren Bewegung des Körpers."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1272,Die Gruft,,,,Die_Gruft.name,,
 _work/Data/Scripts/content/Items/Written.d:1283,Kampfkunst,,,,Die_Gruft.description,,
 _work/Data/Scripts/content/Items/Written.d:1294,Astronomie,,,,Astronomie.name,,
 _work/Data/Scripts/content/Items/Written.d:1305,Astronomie,,,,Astronomie.description,,
-_work/Data/Scripts/content/Items/Written.d:1336,"Im Zentrum befindet sich der Morgrad mit seinen vier Elementen Erde, Wasser, Feuer und Luft, der Raum des Vergänglichen, in seinem Inneren die unaussprechliche Dunkelheit des Beliar. Über allem befindet sich die Sphäre des Himmels.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1339,"In der Hierarchie des Kosmos nimmt der Mensch die Stellung des Empfängers ein. Durch seine Seele hat er Teil am höchsten Sein, dem göttlichen Geist, sein vergänglicher Körper hingegen besteht aus Stoffen des Morgrad. Als kleines Abbild der ganzen Welt.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1344,"Die synodische Umlaufszeit der Planeten, dh. die Zeitdauer zwischen zwei gleichartigen Stellungen in Bezug zum Morgrad unserer Welt, weicht jedes Jahrhundert um einige Grade ab, so dass wir davon ausgehen können, uns in einer ständigen Bewegung mit dem restlichen Kosmos zu befinden.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1347,"Bei der Aufstellung eines Kalenders bezogen wir uns Anfangs auf den Mondlauf, um den Anschluß an die tatsächliche Länge des Sonnenjahres zu erhalten.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1336,""Im Zentrum befindet sich der Morgrad mit seinen vier Elementen Erde, Wasser, Feuer und Luft, der Raum des Vergänglichen, in seinem Inneren die unaussprechliche Dunkelheit des Beliar. Über allem befindet sich die Sphäre des Himmels."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1339,""In der Hierarchie des Kosmos nimmt der Mensch die Stellung des Empfängers ein. Durch seine Seele hat er Teil am höchsten Sein, dem göttlichen Geist, sein vergänglicher Körper hingegen besteht aus Stoffen des Morgrad. Als kleines Abbild der ganzen Welt."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1344,""Die synodische Umlaufszeit der Planeten, dh. die Zeitdauer zwischen zwei gleichartigen Stellungen in Bezug zum Morgrad unserer Welt, weicht jedes Jahrhundert um einige Grade ab, so dass wir davon ausgehen können, uns in einer ständigen Bewegung mit dem restlichen Kosmos zu befinden."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1347,""Bei der Aufstellung eines Kalenders bezogen wir uns Anfangs auf den Mondlauf, um den Anschluß an die tatsächliche Länge des Sonnenjahres zu erhalten."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1355,Rezepturen,,,,Rezepturen.name,,
 _work/Data/Scripts/content/Items/Written.d:1366,Rezepturen,,,,Rezepturen.description,,
 _work/Data/Scripts/content/Items/Written.d:1367,Band 1,,,,Rezepturen.text[0],,
 _work/Data/Scripts/content/Items/Written.d:1397,Das Balsam des Sehens:,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1400,"Dazu wird ihm Galle auf die Augen gestrichen. Galle ist bitter im Geschmack. Wird dieses Bittere auf das Auge genommen, dh: schauen wir das Bittere an, so erwächst daraus Weisheit. Wir werden sehend! Bitterkeit und Weisheit schliessen einander aus. Sie sind Gegenpole!",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1408,"Tränen, Leid und Enttäuschung sind bitter, die Weisheit aber ist die Trösterin in jedem seelischen Schmerz. Bitterkeit und Weisheit bilden eine Alternative. Wo Bitterkeit, da fehlt die Weisheit, und wo Weisheit, da gibt es keine Bitterkeit.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1400,""Dazu wird ihm Galle auf die Augen gestrichen. Galle ist bitter im Geschmack. Wird dieses Bittere auf das Auge genommen, dh: schauen wir das Bittere an, so erwächst daraus Weisheit. Wir werden sehend! Bitterkeit und Weisheit schliessen einander aus. Sie sind Gegenpole!"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1408,""Tränen, Leid und Enttäuschung sind bitter, die Weisheit aber ist die Trösterin in jedem seelischen Schmerz. Bitterkeit und Weisheit bilden eine Alternative. Wo Bitterkeit, da fehlt die Weisheit, und wo Weisheit, da gibt es keine Bitterkeit."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1414,Rezepturen,,,,Rezepturen2.name,,
 _work/Data/Scripts/content/Items/Written.d:1425,Rezepturen,,,,Rezepturen2.description,,
 _work/Data/Scripts/content/Items/Written.d:1426,Band 2,,,,Rezepturen2.text[0],,
 _work/Data/Scripts/content/Items/Written.d:1456,Der Wein des Vergessens,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1459,"Hoch oben an den Hängen des Archolos, gibt es die besten Trauben, die man für diesen Wein finden kann. Die Kunst diesen Wein zu seiner Vollendung reifen zu lassen, besteht darin, ihn unter keinen Umständen jeglicher Bewegung auszusetzen. Die Trauben werden vor der Kellerei mit dem gemeinen Syos-kraut versetzt. ",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1468,"Sehet und staunet, wenn der Magister klarstes Brunnenwasser zu vortrefflichen Wein verwandelt. Alle ihm huldigen und sich an seiner Gabe laben. Der Magister seine faulen Lehrlinge zur Strafe in Flaschen sperrt, Feuer sich auf wundersame Weise entzündet und schwarze Schlangen emporwachsen.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1459,""Hoch oben an den Hängen des Archolos, gibt es die besten Trauben, die man für diesen Wein finden kann. Die Kunst diesen Wein zu seiner Vollendung reifen zu lassen, besteht darin, ihn unter keinen Umständen jeglicher Bewegung auszusetzen. Die Trauben werden vor der Kellerei mit dem gemeinen Syos-kraut versetzt. "",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1468,""Sehet und staunet, wenn der Magister klarstes Brunnenwasser zu vortrefflichen Wein verwandelt. Alle ihm huldigen und sich an seiner Gabe laben. Der Magister seine faulen Lehrlinge zur Strafe in Flaschen sperrt, Feuer sich auf wundersame Weise entzündet und schwarze Schlangen emporwachsen."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1476,Tagebuch,,,,TagebuchOT.name,,
 _work/Data/Scripts/content/Items/Written.d:1487,Tagebuch,,,,TagebuchOT.description,,
 _work/Data/Scripts/content/Items/Written.d:1488,Ein altes zerschlissenes Buch.,,,,TagebuchOT.text[0],,
 _work/Data/Scripts/content/Items/Written.d:1490,Es fehlen Seiten.,,,,TagebuchOT.text[1],,
 _work/Data/Scripts/content/Items/Written.d:1517,23. Tag,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:1519,Ich habe das Zeitgefühl verloren.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1520,"Ich schätze es ist 23 Tage her, seit uns die Orks gefangen genommen und zur Arbeit gezwungen haben.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1521,"Die Arbeit ist hart und die Bastarde haben keine Gnade, wer schwach ist, ist tot!",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1522,"Ich will hier abhauen, egal wie!!!",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1520,""Ich schätze es ist 23 Tage her, seit uns die Orks gefangen genommen und zur Arbeit gezwungen haben."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1521,""Die Arbeit ist hart und die Bastarde haben keine Gnade, wer schwach ist, ist tot!"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1522,""Ich will hier abhauen, egal wie!!!"",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1526,28. Tag,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:1528,Wir mussten die Stollen noch weiter in den Berg hinein treibe.,,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1529,"Der vordere Bereich ist schon gigantisch, wenn ich nur wüßte für was wir das tun müssen.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1529,""Der vordere Bereich ist schon gigantisch, wenn ich nur wüßte für was wir das tun müssen."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1534,67. Tag,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:1536,"Ich habe erzählt bekommen, dass diese Priester der Orks keine Herzen mehr hätten, aber wie können sie leben?",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1537,"Außerdem habe ich das Schwert gesehen, vor dem sich die Priester so fürchten, hätte ich es nur, ich würde es ihnen in ihren Körper jagen.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1536,""Ich habe erzählt bekommen, dass diese Priester der Orks keine Herzen mehr hätten, aber wie können sie leben?"",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1537,""Außerdem habe ich das Schwert gesehen, vor dem sich die Priester so fürchten, hätte ich es nur, ich würde es ihnen in ihren Körper jagen."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1541,78. Tag,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:1543,"Das Schwert liegt in einem Raum im vorderen Bereich des Tempels, wird aber von einem Priester bewacht.",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1544,"Ich werde flüchten. Mein Tagebuch lasse ich hier liegen, vielleicht hilft es irgendjemanden mal.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1543,""Das Schwert liegt in einem Raum im vorderen Bereich des Tempels, wird aber von einem Priester bewacht."",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1544,""Ich werde flüchten. Mein Tagebuch lasse ich hier liegen, vielleicht hilft es irgendjemanden mal."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1551,Die Blutfliegen,,,,ItWr_Bloodfly_01.name,,
 _work/Data/Scripts/content/Items/Written.d:1562,Die Blutfliegen,,,,ItWr_Bloodfly_01.description,,
 _work/Data/Scripts/content/Items/Written.d:1583,Blutfliegen,,,,,,Doc_PrintLine call.
 _work/Data/Scripts/content/Items/Written.d:1587,Über die Fliegen,,,,,,Doc_PrintLine call.
-_work/Data/Scripts/content/Items/Written.d:1589,"Dort aber , wo das Erdreich feucht und die Luft schwül ist, werden die Fliegen angelockt vom rinnenden Schweiß aller Kreaturen.Mit ihrem Stachel töten sie ihre Opfer und laben sich an ihrem Blut. ",,,,,,Doc_PrintLines call.
-_work/Data/Scripts/content/Items/Written.d:1599,"Den Stachel zu entnehmen ist eine Kunst die von vielen Sumpfjägern beherrscht wird.Schneide tief in den Unterleib, um den Stachel herum mit gezackten Schnitten und entferne vorsichtig den Stachel mitsamt dem umgebenen Gewebe.Lasse ihn ausbluten und streife das ungeniessbare Fleisch ab.",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1589,""Dort aber , wo das Erdreich feucht und die Luft schwül ist, werden die Fliegen angelockt vom rinnenden Schweiß aller Kreaturen.Mit ihrem Stachel töten sie ihre Opfer und laben sich an ihrem Blut. "",,,,,,Doc_PrintLines call.
+_work/Data/Scripts/content/Items/Written.d:1599,""Den Stachel zu entnehmen ist eine Kunst die von vielen Sumpfjägern beherrscht wird.Schneide tief in den Unterleib, um den Stachel herum mit gezackten Schnitten und entferne vorsichtig den Stachel mitsamt dem umgebenen Gewebe.Lasse ihn ausbluten und streife das ungeniessbare Fleisch ab."",,,,,,Doc_PrintLines call.
 _work/Data/Scripts/content/Items/Written.d:1608,Wissen über Stachel entfernen - Blutfliegen,,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Items/Written.d:1609,Lerne: Stachel entfernen,,,,,,PrintScreen call.
