@@ -459,7 +459,7 @@ _work/Data/Scripts/content/Story/Text.d:401,Feuerschaden,Poškození ohněm,,,NA
 _work/Data/Scripts/content/Story/Text.d:402,Magieschaden,Poškození magií,,,NAME_Dam_Magic,,
 _work/Data/Scripts/content/Story/Text.d:403,Wirbelschaden,Poškození bouří,,,NAME_Dam_Fly,,
 _work/Data/Scripts/content/Story/Text.d:405,Schaden,Poškození,,,NAME_Damage,,
-"_work/Data/Scripts/content/Story/Text.d:406;"" (pro Mana)"";"" (za manu)"";;;NAME_PerMana;;"
+"_work/Data/Scripts/content/Story/Text.d:406;" (pro Mana)";" (za manu)";;;NAME_PerMana;;"
 _work/Data/Scripts/content/Story/Text.d:407,Schaden pro Sec.,Poškození za s.,,,NAME_DamagePerSec,,
 _work/Data/Scripts/content/Story/Text.d:409,Schutz vor Waffen:,Ochrana proti zbraním:,,,NAME_Prot_Edge,,
 _work/Data/Scripts/content/Story/Text.d:410,Schutz vor Pfeilen:,Ochrana proti šípům:,,,NAME_Prot_Point,,
@@ -489,5 +489,5 @@ _work/Data/Scripts/content/Story/Text.d:454,Stärke-,Síla,,,_STR_ATTRIBUTE_STRE
 _work/Data/Scripts/content/Story/Text.d:455,Geschicklichkeits-,Obratnost,,,_STR_ATTRIBUTE_DEXTERITY,,
 _work/Data/Scripts/content/Story/Text.d:456,magische Zauber-,Kouzelný svitek,,,_STR_ATTRIBUTE_MAGIC_CIRCLE,,
 _work/Data/Scripts/content/Story/Text.d:459,es fehlen,Nedostatek,,,_STR_CANNOTUSE_PRE_PLAYER,,
-"_work/Data/Scripts/content/Story/Text.d:460;Punkte;"" body"";;;_STR_CANNOTUSE_POINTS;;"
-"_work/Data/Scripts/content/Story/Text.d:461;Stufen;"" úrovně"";;;_STR_CANNOTUSE_LEVELS;;"
+"_work/Data/Scripts/content/Story/Text.d:460;Punkte;" body";;;_STR_CANNOTUSE_POINTS;;"
+"_work/Data/Scripts/content/Story/Text.d:461;Stufen;" úrovně";;;_STR_CANNOTUSE_LEVELS;;"
