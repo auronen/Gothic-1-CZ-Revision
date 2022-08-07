@@ -1,171 +1,171 @@
-location;source;target;id;fuzzy;context;translator_comments;developer_comments
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:36;Du kümmerst dich um die Reisfelder, richtig?;Du kümmerst dich um die Reisfelder, richtig?;;;DIA_Ricelord_Hello.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:46;Du kümmerst dich um die Reisfelder, richtig?;Du kümmerst dich um die Reisfelder, richtig?;;;DIA_Ricelord_Hello_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:47;Warum? Suchst du Arbeit?;Warum? Suchst du Arbeit?;;;DIA_Ricelord_Hello_12_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:61;Hast du Arbeit für mich?;Hast du Arbeit für mich?;;;DIA_Ricelord_Arbeit.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:76;Hast du Arbeit für mich?;Hast du Arbeit für mich?;;;DIA_Ricelord_Arbeit_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:77;Geh zu Lefty. Er ist meistens hier vorne rechts neben der Scheune.;Geh zu Lefty. Er ist meistens hier vorne rechts neben der Scheune.;;;DIA_Ricelord_Arbeit_12_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:91;Wir könnten handeln...;Wir könnten handeln...;;;DIA_Ricelord_TRADE.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:105;Wir könnten handeln ...;Wir könnten handeln ...;;;DIA_Ricelord_TRADE_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:106;Was hast du denn zu bieten?;Was hast du denn zu bieten?;;;DIA_Ricelord_TRADE_12_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:119;Lefty schickt mich.;Lefty schickt mich.;;;DIA_Ricelord_LeftySentMe.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:135;Lefty schickt mich.;Lefty schickt mich.;;;DIA_Ricelord_LeftySentMe_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:136;Ach so. Was hat er gesagt?;Ach so. Was hat er gesagt?;;;DIA_Ricelord_LeftySentMe_12_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:151;Ich soll den Bauern Wasser bringen.;Ich soll den Bauern Wasser bringen.;;;DIA_Ricelord_GetWater.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:164;Ich soll den Bauern Wasser bringen.;Ich soll den Bauern Wasser bringen.;;;DIA_Ricelord_GetWater_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:168;Gut. Hier sind ein Dutzend Flaschen Wasser.;Gut. Hier sind ein Dutzend Flaschen Wasser.;;;DIA_Ricelord_GetWater_12_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:169;Es gibt etwa doppelt so viele Bauern, also verteil sie gleichmäßig.;Es gibt etwa doppelt so viele Bauern, also verteil sie gleichmäßig.;;;DIA_Ricelord_GetWater_12_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:175;Der Reislord gab mir ein Dutzend Wasserflaschen.;Der Reislord gab mir ein Dutzend Wasserflaschen.;;;;;B_LogEntry call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:181;Das war gestern, Bursche! Geh besser zu ihm. Er hat dir was zu sagen.;Das war gestern, Bursche! Geh besser zu ihm. Er hat dir was zu sagen.;;;DIA_Ricelord_GetWater_TooLate_12_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:186;Das war vor einigen Tagen, Bursche! Geh besser zu ihm. Er hat dir was zu sagen.;Das war vor einigen Tagen, Bursche! Geh besser zu ihm. Er hat dir was zu sagen.;;;DIA_Ricelord_GetWater_TooLate_12_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:36;Lefty schickt mich. Ich hab' Wasser für dich.;Lefty schickt mich. Ich hab' Wasser für dich.;;;Info_Horatio_Wasser.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:50;Lefty schickt mich. Ich hab' Wasser für dich.;Lefty schickt mich. Ich hab' Wasser für dich.;;;Info_Horatio_Wasser_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:53;Danke, Mann! Ich war schon kurz davor, den Schlamm zu saufen.;Danke, Mann! Ich war schon kurz davor, den Schlamm zu saufen.;;;Info_Horatio_Wasser_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:70;Du hast nichts mehr. Ich hol mir von den anderen was.;Du hast nichts mehr. Ich hol mir von den anderen was.;;;Info_Horatio_Wasser_NOWATER_09_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:99;Was machst du hier? Willst du Ärger haben?;Was machst du hier? Willst du Ärger haben?;;;DIA_Horatio_Hello_09_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:102;Ärger? Von wem? Von einem Bauern?;Ärger? Von wem? Von einem Bauern?;;;DIA_Horatio_Hello_PissOff;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:103;Entspann dich! Ich bin neu hier.;Entspann dich! Ich bin neu hier.;;;DIA_Horatio_Hello_BeCool;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:108;Entspann dich! Ich bin neu hier.;Entspann dich! Ich bin neu hier.;;;DIA_Horatio_Hello_BeCool_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:109;Hm ... siehst mir ganz in Ordnung aus - hier weiß man nie. Da kommt jeden Tag ein neuer Mistkerl, der's wissen will.;Hm ... siehst mir ganz in Ordnung aus - hier weiß man nie. Da kommt jeden Tag ein neuer Mistkerl, der's wissen will.;;;DIA_Horatio_Hello_BeCool_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:115;Ärger? Von wem? Von einem Bauern?;Ärger? Von wem? Von einem Bauern?;;;DIA_Horatio_Hello_PissOff_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:116;Nur weil ich auf den Feldern arbeite, heißt das nicht, dass ich mich nicht gegen Typen wie dich wehren kann.;Nur weil ich auf den Feldern arbeite, heißt das nicht, dass ich mich nicht gegen Typen wie dich wehren kann.;;;DIA_Horatio_Hello_PissOff_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:117;Also komm nur her, wenn du Ärger willst!;Also komm nur her, wenn du Ärger willst!;;;DIA_Horatio_Hello_PissOff_09_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:135;Tut mir leid, der Spruch mit dem Bauern.;Tut mir leid, der Spruch mit dem Bauern.;;;DIA_Horatio_SORRY.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:148;Tut mir Leid, der Spruch mit dem Bauern.;Tut mir Leid, der Spruch mit dem Bauern.;;;DIA_Horatio_SORRY_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:149;Das hättest du dir eher überlegen sollen, Junge!;Das hättest du dir eher überlegen sollen, Junge!;;;DIA_Horatio_SORRY_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:163;Was macht ein Kerl wie du bei den Bauern?;Was macht ein Kerl wie du bei den Bauern?;;;DIA_Horatio_Story.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:176;Was macht ein Kerl wie du bei den Bauern?;Was macht ein Kerl wie du bei den Bauern?;;;DIA_Horatio_Story_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:177;Das hat Lee mich auch gefragt, aber ich kämpfe nicht mehr - außer um mich zu verteidigen.;Das hat Lee mich auch gefragt, aber ich kämpfe nicht mehr - außer um mich zu verteidigen.;;;DIA_Horatio_Story_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:178;Ich habe einmal getötet, das war einmal zu viel. Deswegen haben sie mich in diese gottverdammte Kolonie geworfen - und das war nur gerecht.;Ich habe einmal getötet, das war einmal zu viel. Deswegen haben sie mich in diese gottverdammte Kolonie geworfen - und das war nur gerecht.;;;DIA_Horatio_Story_09_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:179;Was ist passiert?;Was ist passiert?;;;DIA_Horatio_Story_15_03;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:180;Es war ein einfacher Streit in einer Kneipe. Ich wollte den Mann nicht töten, aber ich habe zu stark zugeschlagen.;Es war ein einfacher Streit in einer Kneipe. Ich wollte den Mann nicht töten, aber ich habe zu stark zugeschlagen.;;;DIA_Horatio_Story_09_04;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:181;Ich habe damals als Schmied gearbeitet. Ich konnte meine Kraft nicht kontrollieren ...;Ich habe damals als Schmied gearbeitet. Ich konnte meine Kraft nicht kontrollieren ...;;;DIA_Horatio_Story_09_05;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:195;Warum bist du ausgerechnet in DIESES Lager gegangen?;Warum bist du ausgerechnet in DIESES Lager gegangen?;;;DIA_Horatio_WhyHere.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:208;Warum bist du ausgerechnet in DIESES Lager gegangen?;Warum bist du ausgerechnet in DIESES Lager gegangen?;;;DIA_Horatio_WhyHere_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:209;Das will ich dir sagen: Die einzig andere Wahl wären die Sektenspinner gewesen, aber ich habe keine Lust, mir von den Gurus den Kopf waschen zu lassen.;Das will ich dir sagen: Die einzig andere Wahl wären die Sektenspinner gewesen, aber ich habe keine Lust, mir von den Gurus den Kopf waschen zu lassen.;;;DIA_Horatio_WhyHere_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:210;Im Alten Lager hätte ich keine Ruhe vor den Gardisten gehabt, aber die Söldner und Banditen haben Respekt.;Im Alten Lager hätte ich keine Ruhe vor den Gardisten gehabt, aber die Söldner und Banditen haben Respekt.;;;DIA_Horatio_WhyHere_09_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:211;Sie fürchten dich ...;Sie fürchten dich ...;;;DIA_Horatio_WhyHere_15_03;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:212;Kann schon sein. Immerhin habe ICH hier meinen Frieden gefunden. Und das solltest du auch versuchen.;Kann schon sein. Immerhin habe ICH hier meinen Frieden gefunden. Und das solltest du auch versuchen.;;;DIA_Horatio_WhyHere_09_04;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:228;Kannst du mir beibringen, auch so stark zuzuschlagen?;Kannst du mir beibringen, auch so stark zuzuschlagen?;;;DIA_Horatio_PleaseTeachSTR.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:241;Kannst du mir beibringen, auch so stark zuzuschlagen?;Kannst du mir beibringen, auch so stark zuzuschlagen?;;;DIA_Horatio_PleaseTeachSTR_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:242;Selbst wenn - zu WAS würde jemand wie du seine Stärke einsetzen?;Selbst wenn - zu WAS würde jemand wie du seine Stärke einsetzen?;;;DIA_Horatio_PleaseTeachSTR_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:247;Damit ich Reislord und seine Schläger fertigmachen kann!;Damit ich Reislord und seine Schläger fertigmachen kann!;;;DIA_Horatio_PleaseTeachSTR_Ricelord;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:251;Gute Frage. Ich werde darüber nachdenken...;Gute Frage. Ich werde darüber nachdenken...;;;DIA_Horatio_PleaseTeachSTR_BACK;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:253;Zur Selbstverteidigung!;Zur Selbstverteidigung!;;;DIA_Horatio_PleaseTeachSTR_Defend;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:254;Um den Mistkerlen hier zu zeigen, wie man mit mir zu sprechen hat!;Um den Mistkerlen hier zu zeigen, wie man mit mir zu sprechen hat!;;;DIA_Horatio_PleaseTeachSTR_Attack;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:258;Horatio, ein Bauer auf den Reisfeldern des Neuen Lagers will mir beibringen, stärker zuzuschalgen. Doch irgendwie habe ich noch nicht die richtige Antwort auf seine Frage WOZU gefunden.;Horatio, ein Bauer auf den Reisfeldern des Neuen Lagers will mir beibringen, stärker zuzuschalgen. Doch irgendwie habe ich noch nicht die richtige Antwort auf seine Frage WOZU gefunden.;;;;;B_LogEntry call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:263;Um den Mistkerlen hier zu zeigen, wie man mit mir zu sprechen hat!;Um den Mistkerlen hier zu zeigen, wie man mit mir zu sprechen hat!;;;DIA_Horatio_PleaseTeachSTR_Attack_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:264;Und bevor du dich versiehst, bist du nur ein weiterer Mistkerl mehr ... Nein! Dafür werde ich dir nichts beibringen.;Und bevor du dich versiehst, bist du nur ein weiterer Mistkerl mehr ... Nein! Dafür werde ich dir nichts beibringen.;;;DIA_Horatio_PleaseTeachSTR_Attack_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:270;Zur Selbstverteidigung!;Zur Selbstverteidigung!;;;DIA_Horatio_PleaseTeachSTR_Defend_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:271;Dazu musst du nur schnell sein und nicht stark. Glaubst du, dass Schädel spalten besser ist als seinen Frieden zu finden?;Dazu musst du nur schnell sein und nicht stark. Glaubst du, dass Schädel spalten besser ist als seinen Frieden zu finden?;;;DIA_Horatio_PleaseTeachSTR_Defend_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:276;Gute Frage. Ich werde drüber nachdenken ...;Gute Frage. Ich werde drüber nachdenken ...;;;DIA_Horatio_PleaseTeachSTR_BACK_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:282;Damit ich den Reislord und seine Schläger fertig machen kann!;Damit ich den Reislord und seine Schläger fertig machen kann!;;;DIA_Horatio_PleaseTeachSTR_Ricelord_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:283;Hmm ... Du bist nicht der Erste, der das versucht.;Hmm ... Du bist nicht der Erste, der das versucht.;;;DIA_Horatio_PleaseTeachSTR_Ricelord_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:299;Ich hab' nochmal über die Sache nachgedacht...;Ich hab' nochmal über die Sache nachgedacht...;;;DIA_Horatio_ThoughtSTR.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:312;Ich hab' noch einmal über die Sache nachgedacht ...;Ich hab' noch einmal über die Sache nachgedacht ...;;;DIA_Horatio_ThoughtSTR_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:313;Und? Ist dir was Besseres eingefallen?;Und? Ist dir was Besseres eingefallen?;;;DIA_Horatio_ThoughtSTR_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:316;Nein.;Nein.;;;DIA_Horatio_ThoughtSTR_NoIdea;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:321;Ja. Ich will es mit Ricelord und seinen Schlägern aufnehmen können!;Ja. Ich will es mit Ricelord und seinen Schlägern aufnehmen können!;;;DIA_Horatio_ThoughtSTR_Ricelord;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:327;Nein.;Nein.;;;DIA_Horatio_ThoughtSTR_NoIdea_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:328;Dachte ich mir.;Dachte ich mir.;;;DIA_Horatio_ThoughtSTR_NoIdea_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:334;Ja. Ich will es mit dem Reislord und seinen Schlägern aufnehmen können!;Ja. Ich will es mit dem Reislord und seinen Schlägern aufnehmen können!;;;DIA_Horatio_ThoughtSTR_Ricelord_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:335;Hmm ... Du bist nicht der Erste, der das versucht.;Hmm ... Du bist nicht der Erste, der das versucht.;;;DIA_Horatio_ThoughtSTR_Ricelord_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:350;Stärke + 5;Stärke + 5;;;;;PrintScreen call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:355;Stärke: 100;Stärke: 100;;;;;PrintScreen call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:358;Wenn du stark zuschlagen willst, kommt es auf die richtige Technik an. Das ist das Erste, was du beim Schmieden lernst.;Wenn du stark zuschlagen willst, kommt es auf die richtige Technik an. Das ist das Erste, was du beim Schmieden lernst.;;;DIA_Horatio_HelpSTR_LEARN_NOW_09_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:359;Lerne jeden Teil deines Arms, von der Schulter bis zum Handgelenk, gleichzeitig nach vorne schnellen zu lassen.;Lerne jeden Teil deines Arms, von der Schulter bis zum Handgelenk, gleichzeitig nach vorne schnellen zu lassen.;;;DIA_Horatio_HelpSTR_LEARN_NOW_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:360;Je besser die Technik, umso härter der Schlag. Du wirst es schnell raushaben.;Je besser die Technik, umso härter der Schlag. Du wirst es schnell raushaben.;;;DIA_Horatio_HelpSTR_LEARN_NOW_09_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:372;Ich WERDE den Reislord fertig machen - wenn du mir dabei hilfst!;Ich WERDE den Reislord fertig machen - wenn du mir dabei hilfst!;;;DIA_Horatio_HelpSTR.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:385;Ich WERDE den Reislord und seine Schläger fertig machen - wenn du mir dabei hilfst!;Ich WERDE den Reislord und seine Schläger fertig machen - wenn du mir dabei hilfst!;;;DIA_Horatio_HelpSTR_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:386;Gut! Ich habe geschworen, nie wieder jemanden anzugreifen, aber NICHT, es niemandem beizubringen.;Gut! Ich habe geschworen, nie wieder jemanden anzugreifen, aber NICHT, es niemandem beizubringen.;;;DIA_Horatio_HelpSTR_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:387;Ich bin ganz Ohr!;Ich bin ganz Ohr!;;;DIA_Horatio_HelpSTR_15_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:391;Horatio zeigt mir, wie ich meine Kraft im Kampf besser nutzen und damit stärker zuschlagen kann. Eine wahrhaft geläuterte Seele, dieser Mann.;Horatio zeigt mir, wie ich meine Kraft im Kampf besser nutzen und damit stärker zuschlagen kann. Eine wahrhaft geläuterte Seele, dieser Mann.;;;;;B_LogEntry call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:405;Danke für deine Hilfe!;Danke für deine Hilfe!;;;DIA_Horatio_Thanks.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:418;Danke für deine Hilfe!;Danke für deine Hilfe!;;;DIA_Horatio_Thanks_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:419;Nutze dein Wissen für die gerechte Sache! Und NUR DAFÜR.;Nutze dein Wissen für die gerechte Sache! Und NUR DAFÜR.;;;DIA_Horatio_Thanks_09_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:39;Lefty schickt mich. Ich hab' Wasser für dich.;Lefty schickt mich. Ich hab' Wasser für dich.;;;Info_Pock_Wasser.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:53;Lefty schickt mich. Ich hab' Wasser für dich.;Lefty schickt mich. Ich hab' Wasser für dich.;;;Info_Pock_Wasser_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:63;Danke, Junge! Das hab' ich gebraucht!;Danke, Junge! Das hab' ich gebraucht!;;;Info_Pock_Wasser_04_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:73;Aber du hast nichts mehr. Ist schon gut, Junge. Ich werd mich an die andern halten.;Aber du hast nichts mehr. Ist schon gut, Junge. Ich werd mich an die andern halten.;;;Info_Pock_Wasser_NOWATER_04_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:88;Hi! Ich bin neu hier.;Hi! Ich bin neu hier.;;;DIA_Pock_Hello.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:101;Hi! Ich bin neu hier.;Hi! Ich bin neu hier.;;;DIA_Pock_Hello_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:102;Schön mal wieder ein neues Gesicht zu sehen.;Schön mal wieder ein neues Gesicht zu sehen.;;;DIA_Pock_Hello_04_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:103;Du bist schon lange in der Kolonie, hm?;Du bist schon lange in der Kolonie, hm?;;;DIA_Pock_Hello_15_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:104;Stimmt genau, Junge. Ich war einer der Ersten.;Stimmt genau, Junge. Ich war einer der Ersten.;;;DIA_Pock_Hello_04_03;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:118;Dann weißt du bestimmt ne Menge über all das hier?;Dann weißt du bestimmt ne Menge über all das hier?;;;DIA_Pock_KnowMuch.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:131;Dann weißt du bestimmt ne Menge über all das hier?;Dann weißt du bestimmt ne Menge über all das hier?;;;DIA_Pock_KnowMuch_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:132;Tja wie man's nimmt, die meiste Zeit verbringe ich hier beim Reispflücken.;Tja wie man's nimmt, die meiste Zeit verbringe ich hier beim Reispflücken.;;;DIA_Pock_KnowMuch_04_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:133;Nur dadurch bin ich so alt geworden. Wir bekommen etwas Reis ab und vielleicht mal Schnaps, nicht viel, aber es reicht.;Nur dadurch bin ich so alt geworden. Wir bekommen etwas Reis ab und vielleicht mal Schnaps, nicht viel, aber es reicht.;;;DIA_Pock_KnowMuch_04_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:147;Weshalb bist du hier?;Weshalb bist du hier?;;;DIA_Pock_WhyJail.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:160;Weshalb bist du hier?;Weshalb bist du hier?;;;DIA_Pock_WhyJail_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:161;Die Steuern, mein Junge, die Steuern. Meine Scheune war so leer wie mein Bauch, da konnte ich nicht mehr zahlen.;Die Steuern, mein Junge, die Steuern. Meine Scheune war so leer wie mein Bauch, da konnte ich nicht mehr zahlen.;;;DIA_Pock_WhyJail_04_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:162;Irgendwann kamen die Soldaten und brachten mich her. Aber hier ist es nicht schlechter als draußen. Ich werde wenigstens nicht vor Hunger sterben.;Irgendwann kamen die Soldaten und brachten mich her. Aber hier ist es nicht schlechter als draußen. Ich werde wenigstens nicht vor Hunger sterben.;;;DIA_Pock_WhyJail_04_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:163;Hab immer meine Steuern gezahlt - jahrelang. Aber das hat dem Hurensohn mit der Krone nicht gereicht!;Hab immer meine Steuern gezahlt - jahrelang. Aber das hat dem Hurensohn mit der Krone nicht gereicht!;;;DIA_Pock_WhyJail_04_03;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:177;Alles klar bei dir?;Alles klar bei dir?;;;DIA_Pock_ForgotAll.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:190;Alles klar bei dir?;Alles klar bei dir?;;;DIA_Pock_ForgotAll_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:191;Schön mal wieder ein neues Gesicht zu sehen.;Schön mal wieder ein neues Gesicht zu sehen.;;;DIA_Pock_ForgotAll_04_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:192;Moment mal! Wir hatten uns schon unterhalten.;Moment mal! Wir hatten uns schon unterhalten.;;;DIA_Pock_ForgotAll_15_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:193;Nein! Nein, das ist ausgeschlossen. Dich hab' ich hier noch nie gesehen.;Nein! Nein, das ist ausgeschlossen. Dich hab' ich hier noch nie gesehen.;;;DIA_Pock_ForgotAll_04_03;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:194;Natürlich ...;Natürlich ...;;;DIA_Pock_ForgotAll_15_04;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:36;Lefty schickt mich. Ich hab' Wasser für dich.;Lefty schickt mich. Ich hab' Wasser für dich.;;;Info_Rufus_Wasser.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:50;Lefty schickt mich. Ich hab' Wasser für dich.;Lefty schickt mich. Ich hab' Wasser für dich.;;;Info_Rufus_Wasser_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:53;Danke, Mann. Ich sterbe vor Durst.;Danke, Mann. Ich sterbe vor Durst.;;;Info_Rufus_Wasser_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:70;Wasser! Hey, Mann! Du hast nichts mehr! Haben wieder alle was gekriegt bis auf mich?;Wasser! Hey, Mann! Du hast nichts mehr! Haben wieder alle was gekriegt bis auf mich?;;;Info_Rufus_Wasser_NOWATER_02_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:85;Hi! Ich bin neu hier. Wollte mal fragen, was hier so läuft.;Hi! Ich bin neu hier. Wollte mal fragen, was hier so läuft.;;;DIA_Rufus_Hello.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:95;Hi! Ich bin neu hier. Wollte mal fragen, was hier so läuft.;Hi! Ich bin neu hier. Wollte mal fragen, was hier so läuft.;;;DIA_Rufus_Hello_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:96;Frag jemand anderen. Ich arbeite den ganzen Tag auf den Feldern und krieg nichts von dem mit, was hier läuft.;Frag jemand anderen. Ich arbeite den ganzen Tag auf den Feldern und krieg nichts von dem mit, was hier läuft.;;;DIA_Rufus_Hello_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:97;Mann, wie gerne würd' ich zum Reislord gehen und ihm sagen, er soll seinen Scheiß alleine machen!;Mann, wie gerne würd' ich zum Reislord gehen und ihm sagen, er soll seinen Scheiß alleine machen!;;;DIA_Rufus_Hello_02_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:111;"Wenn's dir nicht gefällt, warum arbeitest du dann hier? ";"Wenn's dir nicht gefällt, warum arbeitest du dann hier? ";;;DIA_Rufus_Why.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:124;Wenn's dir nicht gefällt, warum arbeitest du dann hier?;Wenn's dir nicht gefällt, warum arbeitest du dann hier?;;;DIA_Rufus_Why_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:125;Es war am ersten Tag als ich hier war. Lefty, einer der Schläger, die für den Reislord arbeiten, kam zu mir und fragte mich, ob ich mal kurz auf den Reisfeldern helfen könnte.;Es war am ersten Tag als ich hier war. Lefty, einer der Schläger, die für den Reislord arbeiten, kam zu mir und fragte mich, ob ich mal kurz auf den Reisfeldern helfen könnte.;;;DIA_Rufus_Why_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:126;Klar, hab' ich gesagt. Ich war neu und wollte mich nützlich machen.;Klar, hab' ich gesagt. Ich war neu und wollte mich nützlich machen.;;;DIA_Rufus_Why_02_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:127;Als ich mich am nächsten Tag von der Arbeit ausruhte, steht der Typ schon wieder vor mir.;Als ich mich am nächsten Tag von der Arbeit ausruhte, steht der Typ schon wieder vor mir.;;;DIA_Rufus_Why_02_03;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:128;'Du willst doch nicht deine Kollegen ganz alleine schuften lassen?', hat er gesagt.;'Du willst doch nicht deine Kollegen ganz alleine schuften lassen?', hat er gesagt.;;;DIA_Rufus_Why_02_04;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:129;Ich hab' ihm erklärt, dass ich kaputt bin vom Tag vorher, dass ich mich ausruhen muss und so. Aber er hat mir nicht zugehört.;Ich hab' ihm erklärt, dass ich kaputt bin vom Tag vorher, dass ich mich ausruhen muss und so. Aber er hat mir nicht zugehört.;;;DIA_Rufus_Why_02_05;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:130;Er hat mich am Kragen gepackt und auf die Felder geschleift.;Er hat mich am Kragen gepackt und auf die Felder geschleift.;;;DIA_Rufus_Why_02_06;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:131;Seit dem Tag stand er jeden Morgen vor meiner Tür - irgendwann bin ich dann von alleine gekommen - ich wollte keinen Ärger mit den Typen.;Seit dem Tag stand er jeden Morgen vor meiner Tür - irgendwann bin ich dann von alleine gekommen - ich wollte keinen Ärger mit den Typen.;;;DIA_Rufus_Why_02_07;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:132;Das sind richtige Halsabschneider, mit denen legst du dich besser nicht an.;Das sind richtige Halsabschneider, mit denen legst du dich besser nicht an.;;;DIA_Rufus_Why_02_08;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:148;Wer ist der Reislord?;Wer ist der Reislord?;;;DIA_Rufus_Ricelord.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:161;Wer ist der Reislord?;Wer ist der Reislord?;;;DIA_Rufus_Ricelord_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:162;Er war einer der Ersten hier. Hat das Lager mit gegründet und die Reisfelder angelegt.;Er war einer der Ersten hier. Hat das Lager mit gegründet und die Reisfelder angelegt.;;;DIA_Rufus_Ricelord_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:163;Heute steht er nur noch vor seinem Lagerhaus und streckt seine Wampe raus, der alte Fettsack!;Heute steht er nur noch vor seinem Lagerhaus und streckt seine Wampe raus, der alte Fettsack!;;;DIA_Rufus_Ricelord_02_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:36;Was machst du hier?;Was machst du hier?;;;DIA_Jeremiah_Hallo.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:46;Was machst du hier?;Was machst du hier?;;;DIA_Jeremiah_Hallo_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:47;Ich brenne den Reisschnaps, Junge.;Ich brenne den Reisschnaps, Junge.;;;DIA_Jeremiah_Hallo_04_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:48;Hier - nimm ne Flasche. Aber sag nichts Silas.;Hier - nimm ne Flasche. Aber sag nichts Silas.;;;DIA_Jeremiah_Hallo_04_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:67;Wie läuft das Schnapsbrennergeschäft?;Wie läuft das Schnapsbrennergeschäft?;;;DIA_Jeremiah_PERM.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:77;Wie läuft das Schnapsbrennergeschäft?;Wie läuft das Schnapsbrennergeschäft?;;;DIA_Jeremiah_PERM_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:78;Ich kann kaum soviel nachlegen, wie die Kerle wegsaufen.;Ich kann kaum soviel nachlegen, wie die Kerle wegsaufen.;;;DIA_Jeremiah_PERM_04_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:79;Ist auch ganz gut so - solange ich hier genug zu tun habe, lassen mich die Jungs vom Reislord in Ruhe.;Ist auch ganz gut so - solange ich hier genug zu tun habe, lassen mich die Jungs vom Reislord in Ruhe.;;;DIA_Jeremiah_PERM_04_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:95;Was kannst du mir über den Reislord sagen?;Was kannst du mir über den Reislord sagen?;;;DIA_Jeremiah_Horatio.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:108;Was kannst du mir über den Reislord sagen?;Was kannst du mir über den Reislord sagen?;;;DIA_Jeremiah_Horatio_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:109;Er ist ein verdammtes Schwein! Seine Schläger suchen sich die Schwachen aus, um sie zur Arbeit auf den Feldern zu zwingen.;Er ist ein verdammtes Schwein! Seine Schläger suchen sich die Schwachen aus, um sie zur Arbeit auf den Feldern zu zwingen.;;;DIA_Jeremiah_Horatio_04_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:110;Der einzige, der sich wehren könnte ist Horatio. Aber der hat mit Gewalt nichts am Hut.;Der einzige, der sich wehren könnte ist Horatio. Aber der hat mit Gewalt nichts am Hut.;;;DIA_Jeremiah_Horatio_04_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:111;Ich hab' mal gehört, wie er gesagt hat, er würde dem Reislord gerne den Schädel einschlagen, aber das würde er nie tun.;Ich hab' mal gehört, wie er gesagt hat, er würde dem Reislord gerne den Schädel einschlagen, aber das würde er nie tun.;;;DIA_Jeremiah_Horatio_04_03;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:112;Seine Überzeugung hält ihn davon ab.;Seine Überzeugung hält ihn davon ab.;;;DIA_Jeremiah_Horatio_04_04;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:36;Hältst du nach irgendwas Ausschau?;Hältst du nach irgendwas Ausschau?;;;DIA_Homer_Hello.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:46;Hältst du nach irgendwas Ausschau?;Hältst du nach irgendwas Ausschau?;;;DIA_Homer_Hello_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:47;Ich suche undichte Stellen im Damm. Ich habe den Verdacht, dass ein Lurker am Fundament des Damms nagt.;Ich suche undichte Stellen im Damm. Ich habe den Verdacht, dass ein Lurker am Fundament des Damms nagt.;;;DIA_Homer_Hello_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:48;Das Vieh wetzt seine Zähne und Krallen an den Steinen und Holzbalken unter Wasser.;Das Vieh wetzt seine Zähne und Krallen an den Steinen und Holzbalken unter Wasser.;;;DIA_Homer_Hello_02_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:49;Auf diese Weise ist bald der gesamte Damm untergraben.;Auf diese Weise ist bald der gesamte Damm untergraben.;;;DIA_Homer_Hello_02_03;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:63;Hast DU den Damm gebaut?;Hast DU den Damm gebaut?;;;DIA_Homer_BuiltDam.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:76;Hast DU den Damm gebaut?;Hast DU den Damm gebaut?;;;DIA_Homer_BuiltDam_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:77;Ja. Als wir damals das neue Lager gegründet haben, habe ich den Damm errichtet.;Ja. Als wir damals das neue Lager gegründet haben, habe ich den Damm errichtet.;;;DIA_Homer_BuiltDam_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:78;Natürlich haben alle mitgeholfen, aber ich war der Baumeister.;Natürlich haben alle mitgeholfen, aber ich war der Baumeister.;;;DIA_Homer_BuiltDam_02_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:94;Kann ich dir helfen?;Kann ich dir helfen?;;;DIA_Homer_WannaHelp.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:107;Kann ich dir helfen?;Kann ich dir helfen?;;;DIA_Homer_WannaHelp_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:108;Klar, halt das Vieh davon ab, weiter an meinem Damm rumzunagen.;Klar, halt das Vieh davon ab, weiter an meinem Damm rumzunagen.;;;DIA_Homer_WannaHelp_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:114;Homer erzählte mir, dass ein Lurker am Damm nagt. Wenn ich ihn aufhalten kann, wäre der Damm wieder zu reparieren.;Homer erzählte mir, dass ein Lurker am Damm nagt. Wenn ich ihn aufhalten kann, wäre der Damm wieder zu reparieren.;;;;;B_LogEntry call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:129;Wo finde ich das Biest?;Wo finde ich das Biest?;;;DIA_Homer_Running.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:142;Wo finde ich das Biest?;Wo finde ich das Biest?;;;DIA_Homer_Running_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:143;Ich würde auf der anderen Seite des Sees suchen. Keiner von den Leuten hier geht da hin. Wahrscheinlich hat es da seine Höhle.;Ich würde auf der anderen Seite des Sees suchen. Keiner von den Leuten hier geht da hin. Wahrscheinlich hat es da seine Höhle.;;;DIA_Homer_Running_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:146;Der Lurker muss seinen Ruheplatz irgendwo auf der abgelegenen Seite des Stausees haben.;Der Lurker muss seinen Ruheplatz irgendwo auf der abgelegenen Seite des Stausees haben.;;;;;B_LogEntry call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:161;Ich hab' das Biest erledigt!;Ich hab' das Biest erledigt!;;;DIA_Homer_Success.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:168;hp:;hp:;;;;;PrintDebugInt call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:179;Ich hab' das Biest erledigt!;Ich hab' das Biest erledigt!;;;DIA_Homer_Success_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:180;Gut! Ich habe schon zusammen mit einigen von Reislords Leuten die Schäden behoben, die es bisher angerichtet hat.;Gut! Ich habe schon zusammen mit einigen von Reislords Leuten die Schäden behoben, die es bisher angerichtet hat.;;;DIA_Homer_Success_02_01;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:181;Jetzt kann ich mich endlich mal wieder in Ruhe schlafen legen.;Jetzt kann ich mich endlich mal wieder in Ruhe schlafen legen.;;;DIA_Homer_Success_02_02;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:185;Der Lurker ist erlegt, Homer kann wieder ruhig schlafen.;Der Lurker ist erlegt, Homer kann wieder ruhig schlafen.;;;;;B_LogEntry call.
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:203;Alles klar beim Damm?;Alles klar beim Damm?;;;DIA_Homer_PERM.description;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:216;Alles klar beim Damm?;Alles klar beim Damm?;;;DIA_Homer_PERM_15_00;;
-_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:217;Steht wie 'ne Festung, den kriegt so schnell nichts klein.;Steht wie 'ne Festung, den kriegt so schnell nichts klein.;;;DIA_Homer_PERM_02_01;;
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:36,"Du kümmerst dich um die Reisfelder, richtig?",,,,DIA_Ricelord_Hello.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:46,"Du kümmerst dich um die Reisfelder, richtig?",,,,DIA_Ricelord_Hello_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:47,Warum? Suchst du Arbeit?,,,,DIA_Ricelord_Hello_12_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:61,Hast du Arbeit für mich?,,,,DIA_Ricelord_Arbeit.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:76,Hast du Arbeit für mich?,,,,DIA_Ricelord_Arbeit_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:77,Geh zu Lefty. Er ist meistens hier vorne rechts neben der Scheune.,,,,DIA_Ricelord_Arbeit_12_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:91,Wir könnten handeln...,,,,DIA_Ricelord_TRADE.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:105,Wir könnten handeln ...,,,,DIA_Ricelord_TRADE_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:106,Was hast du denn zu bieten?,,,,DIA_Ricelord_TRADE_12_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:119,Lefty schickt mich.,,,,DIA_Ricelord_LeftySentMe.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:135,Lefty schickt mich.,,,,DIA_Ricelord_LeftySentMe_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:136,Ach so. Was hat er gesagt?,,,,DIA_Ricelord_LeftySentMe_12_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:151,Ich soll den Bauern Wasser bringen.,,,,DIA_Ricelord_GetWater.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:164,Ich soll den Bauern Wasser bringen.,,,,DIA_Ricelord_GetWater_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:168,Gut. Hier sind ein Dutzend Flaschen Wasser.,,,,DIA_Ricelord_GetWater_12_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:169,"Es gibt etwa doppelt so viele Bauern, also verteil sie gleichmäßig.",,,,DIA_Ricelord_GetWater_12_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:175,Der Reislord gab mir ein Dutzend Wasserflaschen.,,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:181,"Das war gestern, Bursche! Geh besser zu ihm. Er hat dir was zu sagen.",,,,DIA_Ricelord_GetWater_TooLate_12_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:186,"Das war vor einigen Tagen, Bursche! Geh besser zu ihm. Er hat dir was zu sagen.",,,,DIA_Ricelord_GetWater_TooLate_12_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:36,Lefty schickt mich. Ich hab' Wasser für dich.,,,,Info_Horatio_Wasser.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:50,Lefty schickt mich. Ich hab' Wasser für dich.,,,,Info_Horatio_Wasser_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:53,"Danke, Mann! Ich war schon kurz davor, den Schlamm zu saufen.",,,,Info_Horatio_Wasser_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:70,Du hast nichts mehr. Ich hol mir von den anderen was.,,,,Info_Horatio_Wasser_NOWATER_09_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:99,Was machst du hier? Willst du Ärger haben?,,,,DIA_Horatio_Hello_09_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:102,Ärger? Von wem? Von einem Bauern?,,,,DIA_Horatio_Hello_PissOff,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:103,Entspann dich! Ich bin neu hier.,,,,DIA_Horatio_Hello_BeCool,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:108,Entspann dich! Ich bin neu hier.,,,,DIA_Horatio_Hello_BeCool_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:109,"Hm ... siehst mir ganz in Ordnung aus - hier weiß man nie. Da kommt jeden Tag ein neuer Mistkerl, der's wissen will.",,,,DIA_Horatio_Hello_BeCool_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:115,Ärger? Von wem? Von einem Bauern?,,,,DIA_Horatio_Hello_PissOff_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:116,"Nur weil ich auf den Feldern arbeite, heißt das nicht, dass ich mich nicht gegen Typen wie dich wehren kann.",,,,DIA_Horatio_Hello_PissOff_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:117,"Also komm nur her, wenn du Ärger willst!",,,,DIA_Horatio_Hello_PissOff_09_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:135,"Tut mir leid, der Spruch mit dem Bauern.",,,,DIA_Horatio_SORRY.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:148,"Tut mir Leid, der Spruch mit dem Bauern.",,,,DIA_Horatio_SORRY_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:149,"Das hättest du dir eher überlegen sollen, Junge!",,,,DIA_Horatio_SORRY_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:163,Was macht ein Kerl wie du bei den Bauern?,,,,DIA_Horatio_Story.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:176,Was macht ein Kerl wie du bei den Bauern?,,,,DIA_Horatio_Story_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:177,"Das hat Lee mich auch gefragt, aber ich kämpfe nicht mehr - außer um mich zu verteidigen.",,,,DIA_Horatio_Story_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:178,"Ich habe einmal getötet, das war einmal zu viel. Deswegen haben sie mich in diese gottverdammte Kolonie geworfen - und das war nur gerecht.",,,,DIA_Horatio_Story_09_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:179,Was ist passiert?,,,,DIA_Horatio_Story_15_03,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:180,"Es war ein einfacher Streit in einer Kneipe. Ich wollte den Mann nicht töten, aber ich habe zu stark zugeschlagen.",,,,DIA_Horatio_Story_09_04,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:181,Ich habe damals als Schmied gearbeitet. Ich konnte meine Kraft nicht kontrollieren ...,,,,DIA_Horatio_Story_09_05,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:195,Warum bist du ausgerechnet in DIESES Lager gegangen?,,,,DIA_Horatio_WhyHere.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:208,Warum bist du ausgerechnet in DIESES Lager gegangen?,,,,DIA_Horatio_WhyHere_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:209,"Das will ich dir sagen: Die einzig andere Wahl wären die Sektenspinner gewesen, aber ich habe keine Lust, mir von den Gurus den Kopf waschen zu lassen.",,,,DIA_Horatio_WhyHere_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:210,"Im Alten Lager hätte ich keine Ruhe vor den Gardisten gehabt, aber die Söldner und Banditen haben Respekt.",,,,DIA_Horatio_WhyHere_09_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:211,Sie fürchten dich ...,,,,DIA_Horatio_WhyHere_15_03,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:212,Kann schon sein. Immerhin habe ICH hier meinen Frieden gefunden. Und das solltest du auch versuchen.,,,,DIA_Horatio_WhyHere_09_04,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:228,"Kannst du mir beibringen, auch so stark zuzuschlagen?",,,,DIA_Horatio_PleaseTeachSTR.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:241,"Kannst du mir beibringen, auch so stark zuzuschlagen?",,,,DIA_Horatio_PleaseTeachSTR_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:242,Selbst wenn - zu WAS würde jemand wie du seine Stärke einsetzen?,,,,DIA_Horatio_PleaseTeachSTR_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:247,Damit ich Reislord und seine Schläger fertigmachen kann!,,,,DIA_Horatio_PleaseTeachSTR_Ricelord,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:251,Gute Frage. Ich werde darüber nachdenken...,,,,DIA_Horatio_PleaseTeachSTR_BACK,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:253,Zur Selbstverteidigung!,,,,DIA_Horatio_PleaseTeachSTR_Defend,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:254,"Um den Mistkerlen hier zu zeigen, wie man mit mir zu sprechen hat!",,,,DIA_Horatio_PleaseTeachSTR_Attack,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:258,"Horatio, ein Bauer auf den Reisfeldern des Neuen Lagers will mir beibringen, stärker zuzuschalgen. Doch irgendwie habe ich noch nicht die richtige Antwort auf seine Frage WOZU gefunden.",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:263,"Um den Mistkerlen hier zu zeigen, wie man mit mir zu sprechen hat!",,,,DIA_Horatio_PleaseTeachSTR_Attack_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:264,"Und bevor du dich versiehst, bist du nur ein weiterer Mistkerl mehr ... Nein! Dafür werde ich dir nichts beibringen.",,,,DIA_Horatio_PleaseTeachSTR_Attack_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:270,Zur Selbstverteidigung!,,,,DIA_Horatio_PleaseTeachSTR_Defend_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:271,"Dazu musst du nur schnell sein und nicht stark. Glaubst du, dass Schädel spalten besser ist als seinen Frieden zu finden?",,,,DIA_Horatio_PleaseTeachSTR_Defend_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:276,Gute Frage. Ich werde drüber nachdenken ...,,,,DIA_Horatio_PleaseTeachSTR_BACK_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:282,Damit ich den Reislord und seine Schläger fertig machen kann!,,,,DIA_Horatio_PleaseTeachSTR_Ricelord_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:283,"Hmm ... Du bist nicht der Erste, der das versucht.",,,,DIA_Horatio_PleaseTeachSTR_Ricelord_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:299,Ich hab' nochmal über die Sache nachgedacht...,,,,DIA_Horatio_ThoughtSTR.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:312,Ich hab' noch einmal über die Sache nachgedacht ...,,,,DIA_Horatio_ThoughtSTR_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:313,Und? Ist dir was Besseres eingefallen?,,,,DIA_Horatio_ThoughtSTR_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:316,Nein.,,,,DIA_Horatio_ThoughtSTR_NoIdea,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:321,Ja. Ich will es mit Ricelord und seinen Schlägern aufnehmen können!,,,,DIA_Horatio_ThoughtSTR_Ricelord,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:327,Nein.,,,,DIA_Horatio_ThoughtSTR_NoIdea_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:328,Dachte ich mir.,,,,DIA_Horatio_ThoughtSTR_NoIdea_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:334,Ja. Ich will es mit dem Reislord und seinen Schlägern aufnehmen können!,,,,DIA_Horatio_ThoughtSTR_Ricelord_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:335,"Hmm ... Du bist nicht der Erste, der das versucht.",,,,DIA_Horatio_ThoughtSTR_Ricelord_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:350,Stärke + 5,,,,,,PrintScreen call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:355,Stärke: 100,,,,,,PrintScreen call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:358,"Wenn du stark zuschlagen willst, kommt es auf die richtige Technik an. Das ist das Erste, was du beim Schmieden lernst.",,,,DIA_Horatio_HelpSTR_LEARN_NOW_09_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:359,"Lerne jeden Teil deines Arms, von der Schulter bis zum Handgelenk, gleichzeitig nach vorne schnellen zu lassen.",,,,DIA_Horatio_HelpSTR_LEARN_NOW_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:360,"Je besser die Technik, umso härter der Schlag. Du wirst es schnell raushaben.",,,,DIA_Horatio_HelpSTR_LEARN_NOW_09_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:372,Ich WERDE den Reislord fertig machen - wenn du mir dabei hilfst!,,,,DIA_Horatio_HelpSTR.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:385,Ich WERDE den Reislord und seine Schläger fertig machen - wenn du mir dabei hilfst!,,,,DIA_Horatio_HelpSTR_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:386,"Gut! Ich habe geschworen, nie wieder jemanden anzugreifen, aber NICHT, es niemandem beizubringen.",,,,DIA_Horatio_HelpSTR_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:387,Ich bin ganz Ohr!,,,,DIA_Horatio_HelpSTR_15_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:391,"Horatio zeigt mir, wie ich meine Kraft im Kampf besser nutzen und damit stärker zuschlagen kann. Eine wahrhaft geläuterte Seele, dieser Mann.",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:405,Danke für deine Hilfe!,,,,DIA_Horatio_Thanks.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:418,Danke für deine Hilfe!,,,,DIA_Horatio_Thanks_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:419,Nutze dein Wissen für die gerechte Sache! Und NUR DAFÜR.,,,,DIA_Horatio_Thanks_09_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:39,Lefty schickt mich. Ich hab' Wasser für dich.,,,,Info_Pock_Wasser.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:53,Lefty schickt mich. Ich hab' Wasser für dich.,,,,Info_Pock_Wasser_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:63,"Danke, Junge! Das hab' ich gebraucht!",,,,Info_Pock_Wasser_04_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:73,"Aber du hast nichts mehr. Ist schon gut, Junge. Ich werd mich an die andern halten.",,,,Info_Pock_Wasser_NOWATER_04_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:88,Hi! Ich bin neu hier.,,,,DIA_Pock_Hello.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:101,Hi! Ich bin neu hier.,,,,DIA_Pock_Hello_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:102,Schön mal wieder ein neues Gesicht zu sehen.,,,,DIA_Pock_Hello_04_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:103,"Du bist schon lange in der Kolonie, hm?",,,,DIA_Pock_Hello_15_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:104,"Stimmt genau, Junge. Ich war einer der Ersten.",,,,DIA_Pock_Hello_04_03,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:118,Dann weißt du bestimmt ne Menge über all das hier?,,,,DIA_Pock_KnowMuch.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:131,Dann weißt du bestimmt ne Menge über all das hier?,,,,DIA_Pock_KnowMuch_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:132,"Tja wie man's nimmt, die meiste Zeit verbringe ich hier beim Reispflücken.",,,,DIA_Pock_KnowMuch_04_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:133,"Nur dadurch bin ich so alt geworden. Wir bekommen etwas Reis ab und vielleicht mal Schnaps, nicht viel, aber es reicht.",,,,DIA_Pock_KnowMuch_04_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:147,Weshalb bist du hier?,,,,DIA_Pock_WhyJail.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:160,Weshalb bist du hier?,,,,DIA_Pock_WhyJail_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:161,"Die Steuern, mein Junge, die Steuern. Meine Scheune war so leer wie mein Bauch, da konnte ich nicht mehr zahlen.",,,,DIA_Pock_WhyJail_04_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:162,Irgendwann kamen die Soldaten und brachten mich her. Aber hier ist es nicht schlechter als draußen. Ich werde wenigstens nicht vor Hunger sterben.,,,,DIA_Pock_WhyJail_04_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:163,Hab immer meine Steuern gezahlt - jahrelang. Aber das hat dem Hurensohn mit der Krone nicht gereicht!,,,,DIA_Pock_WhyJail_04_03,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:177,Alles klar bei dir?,,,,DIA_Pock_ForgotAll.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:190,Alles klar bei dir?,,,,DIA_Pock_ForgotAll_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:191,Schön mal wieder ein neues Gesicht zu sehen.,,,,DIA_Pock_ForgotAll_04_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:192,Moment mal! Wir hatten uns schon unterhalten.,,,,DIA_Pock_ForgotAll_15_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:193,"Nein! Nein, das ist ausgeschlossen. Dich hab' ich hier noch nie gesehen.",,,,DIA_Pock_ForgotAll_04_03,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:194,Natürlich ...,,,,DIA_Pock_ForgotAll_15_04,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:36,Lefty schickt mich. Ich hab' Wasser für dich.,,,,Info_Rufus_Wasser.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:50,Lefty schickt mich. Ich hab' Wasser für dich.,,,,Info_Rufus_Wasser_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:53,"Danke, Mann. Ich sterbe vor Durst.",,,,Info_Rufus_Wasser_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:70,"Wasser! Hey, Mann! Du hast nichts mehr! Haben wieder alle was gekriegt bis auf mich?",,,,Info_Rufus_Wasser_NOWATER_02_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:85,"Hi! Ich bin neu hier. Wollte mal fragen, was hier so läuft.",,,,DIA_Rufus_Hello.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:95,"Hi! Ich bin neu hier. Wollte mal fragen, was hier so läuft.",,,,DIA_Rufus_Hello_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:96,"Frag jemand anderen. Ich arbeite den ganzen Tag auf den Feldern und krieg nichts von dem mit, was hier läuft.",,,,DIA_Rufus_Hello_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:97,"Mann, wie gerne würd' ich zum Reislord gehen und ihm sagen, er soll seinen Scheiß alleine machen!",,,,DIA_Rufus_Hello_02_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:111,"Wenn's dir nicht gefällt, warum arbeitest du dann hier? ",,,,DIA_Rufus_Why.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:124,"Wenn's dir nicht gefällt, warum arbeitest du dann hier?",,,,DIA_Rufus_Why_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:125,"Es war am ersten Tag als ich hier war. Lefty, einer der Schläger, die für den Reislord arbeiten, kam zu mir und fragte mich, ob ich mal kurz auf den Reisfeldern helfen könnte.",,,,DIA_Rufus_Why_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:126,"Klar, hab' ich gesagt. Ich war neu und wollte mich nützlich machen.",,,,DIA_Rufus_Why_02_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:127,"Als ich mich am nächsten Tag von der Arbeit ausruhte, steht der Typ schon wieder vor mir.",,,,DIA_Rufus_Why_02_03,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:128,"'Du willst doch nicht deine Kollegen ganz alleine schuften lassen?', hat er gesagt.",,,,DIA_Rufus_Why_02_04,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:129,"Ich hab' ihm erklärt, dass ich kaputt bin vom Tag vorher, dass ich mich ausruhen muss und so. Aber er hat mir nicht zugehört.",,,,DIA_Rufus_Why_02_05,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:130,Er hat mich am Kragen gepackt und auf die Felder geschleift.,,,,DIA_Rufus_Why_02_06,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:131,Seit dem Tag stand er jeden Morgen vor meiner Tür - irgendwann bin ich dann von alleine gekommen - ich wollte keinen Ärger mit den Typen.,,,,DIA_Rufus_Why_02_07,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:132,"Das sind richtige Halsabschneider, mit denen legst du dich besser nicht an.",,,,DIA_Rufus_Why_02_08,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:148,Wer ist der Reislord?,,,,DIA_Rufus_Ricelord.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:161,Wer ist der Reislord?,,,,DIA_Rufus_Ricelord_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:162,Er war einer der Ersten hier. Hat das Lager mit gegründet und die Reisfelder angelegt.,,,,DIA_Rufus_Ricelord_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:163,"Heute steht er nur noch vor seinem Lagerhaus und streckt seine Wampe raus, der alte Fettsack!",,,,DIA_Rufus_Ricelord_02_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:36,Was machst du hier?,,,,DIA_Jeremiah_Hallo.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:46,Was machst du hier?,,,,DIA_Jeremiah_Hallo_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:47,"Ich brenne den Reisschnaps, Junge.",,,,DIA_Jeremiah_Hallo_04_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:48,Hier - nimm ne Flasche. Aber sag nichts Silas.,,,,DIA_Jeremiah_Hallo_04_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:67,Wie läuft das Schnapsbrennergeschäft?,,,,DIA_Jeremiah_PERM.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:77,Wie läuft das Schnapsbrennergeschäft?,,,,DIA_Jeremiah_PERM_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:78,"Ich kann kaum soviel nachlegen, wie die Kerle wegsaufen.",,,,DIA_Jeremiah_PERM_04_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:79,"Ist auch ganz gut so - solange ich hier genug zu tun habe, lassen mich die Jungs vom Reislord in Ruhe.",,,,DIA_Jeremiah_PERM_04_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:95,Was kannst du mir über den Reislord sagen?,,,,DIA_Jeremiah_Horatio.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:108,Was kannst du mir über den Reislord sagen?,,,,DIA_Jeremiah_Horatio_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:109,"Er ist ein verdammtes Schwein! Seine Schläger suchen sich die Schwachen aus, um sie zur Arbeit auf den Feldern zu zwingen.",,,,DIA_Jeremiah_Horatio_04_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:110,"Der einzige, der sich wehren könnte ist Horatio. Aber der hat mit Gewalt nichts am Hut.",,,,DIA_Jeremiah_Horatio_04_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:111,"Ich hab' mal gehört, wie er gesagt hat, er würde dem Reislord gerne den Schädel einschlagen, aber das würde er nie tun.",,,,DIA_Jeremiah_Horatio_04_03,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:112,Seine Überzeugung hält ihn davon ab.,,,,DIA_Jeremiah_Horatio_04_04,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:36,Hältst du nach irgendwas Ausschau?,,,,DIA_Homer_Hello.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:46,Hältst du nach irgendwas Ausschau?,,,,DIA_Homer_Hello_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:47,"Ich suche undichte Stellen im Damm. Ich habe den Verdacht, dass ein Lurker am Fundament des Damms nagt.",,,,DIA_Homer_Hello_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:48,Das Vieh wetzt seine Zähne und Krallen an den Steinen und Holzbalken unter Wasser.,,,,DIA_Homer_Hello_02_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:49,Auf diese Weise ist bald der gesamte Damm untergraben.,,,,DIA_Homer_Hello_02_03,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:63,Hast DU den Damm gebaut?,,,,DIA_Homer_BuiltDam.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:76,Hast DU den Damm gebaut?,,,,DIA_Homer_BuiltDam_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:77,"Ja. Als wir damals das neue Lager gegründet haben, habe ich den Damm errichtet.",,,,DIA_Homer_BuiltDam_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:78,"Natürlich haben alle mitgeholfen, aber ich war der Baumeister.",,,,DIA_Homer_BuiltDam_02_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:94,Kann ich dir helfen?,,,,DIA_Homer_WannaHelp.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:107,Kann ich dir helfen?,,,,DIA_Homer_WannaHelp_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:108,"Klar, halt das Vieh davon ab, weiter an meinem Damm rumzunagen.",,,,DIA_Homer_WannaHelp_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:114,"Homer erzählte mir, dass ein Lurker am Damm nagt. Wenn ich ihn aufhalten kann, wäre der Damm wieder zu reparieren.",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:129,Wo finde ich das Biest?,,,,DIA_Homer_Running.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:142,Wo finde ich das Biest?,,,,DIA_Homer_Running_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:143,Ich würde auf der anderen Seite des Sees suchen. Keiner von den Leuten hier geht da hin. Wahrscheinlich hat es da seine Höhle.,,,,DIA_Homer_Running_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:146,Der Lurker muss seinen Ruheplatz irgendwo auf der abgelegenen Seite des Stausees haben.,,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:161,Ich hab' das Biest erledigt!,,,,DIA_Homer_Success.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:168,hp:,,,,,,PrintDebugInt call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:179,Ich hab' das Biest erledigt!,,,,DIA_Homer_Success_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:180,"Gut! Ich habe schon zusammen mit einigen von Reislords Leuten die Schäden behoben, die es bisher angerichtet hat.",,,,DIA_Homer_Success_02_01,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:181,Jetzt kann ich mich endlich mal wieder in Ruhe schlafen legen.,,,,DIA_Homer_Success_02_02,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:185,"Der Lurker ist erlegt, Homer kann wieder ruhig schlafen.",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:203,Alles klar beim Damm?,,,,DIA_Homer_PERM.description,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:216,Alles klar beim Damm?,,,,DIA_Homer_PERM_15_00,,
+_work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:217,"Steht wie 'ne Festung, den kriegt so schnell nichts klein.",,,,DIA_Homer_PERM_02_01,,
