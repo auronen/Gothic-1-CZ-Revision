@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:36,"Ich bin gekommen, um dir meine Dienste anzubieten.",,,,DIA_Gomez_Fault.description,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:49,"Ich bin gekommen, um dir meine Dienste anzubieten.",,,,DIA_Gomez_Fault_15_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:50,"Du platzt hier einfach rein und erwartest, dass ich mich mit dir befasse, du Wurm? WACHE!",,,,DIA_Gomez_Fault_11_01,,

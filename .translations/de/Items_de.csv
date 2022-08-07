@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Items/Amulette.d:17,Zeichen der Bruderschaft,,,,ItMi_Amulet_Psi_01.description,,
 _work/Data/Scripts/content/Items/Amulette.d:44,Amulett der Flammen,,,,Schutzamulett_Feuer.description,,
 _work/Data/Scripts/content/Items/Amulette.d:82,Harnischamulett,,,,Schutzamulett_Waffen.description,,

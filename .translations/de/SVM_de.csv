@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/svm.d:250,Hör auf mit dieser Magie-Scheiße!,,,,SVM_1_StopMagic,,
 _work/Data/Scripts/content/Story/svm.d:251,Willst du Schläge? Hör sofort damit auf!!!,,,,SVM_1_ISaidStopMagic,,
 _work/Data/Scripts/content/Story/svm.d:252,Steck die Waffe weg!,,,,SVM_1_WeaponDown,,

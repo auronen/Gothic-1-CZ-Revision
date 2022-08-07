@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:20,"Du siehst ganz schön ungelenkig aus, ich könnte dir helfen.",,,,DIA_ORG_833_Buster_02_01,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:57,Wie kannst du mir helfen?,,,,DIA_ORG_833_Buster3.description,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:67,Ich kann dir die hohe Kunst der Körperbeherrschung zeigen. AKROBATIK.,,,,DIA_ORG_833_Buster3_02_01,,

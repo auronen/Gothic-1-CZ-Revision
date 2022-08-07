@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:21,Mögest du in einem Stück zurückkehren!,,,,Info_Saturas_EXIT_14_01,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:49,Was machst du hier? Du hast hier nichts zu suchen! Verschwinde!,,,,Info_Saturas_Intruder_14_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:74,Ich habe wichtige Neuigkeiten aus dem Lager der Bruderschaft!,,,,Info_Saturas_NEWS.description,,

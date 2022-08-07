@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:36,"Du kümmerst dich um die Reisfelder, richtig?",,,,DIA_Ricelord_Hello.description,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:46,"Du kümmerst dich um die Reisfelder, richtig?",,,,DIA_Ricelord_Hello_15_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:47,Warum? Suchst du Arbeit?,,,,DIA_Ricelord_Hello_12_01,,

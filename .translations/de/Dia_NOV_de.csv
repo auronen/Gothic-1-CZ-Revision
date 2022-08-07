@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:37,Hi! Ich bin neu hier!,,,,DIA_Caine_Hallo.description,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:47,Hi! Ich bin neu hier!,,,,DIA_Caine_Hallo_15_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:48,"Ich bin Caine. Schüler von Cor Kalom. Du hast sicher schon von ihm gehört, richtig?",,,,DIA_Caine_Hallo_13_01,,

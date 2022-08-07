@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1402_GorNaToth.d:35,Kannst du mich trainieren?,,,,DIA_GorNaToth_Abweisend.description,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1402_GorNaToth.d:49,Kannst du mich trainieren?,,,,DIA_GorNaToth_AngarTalked_15_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1402_GorNaToth.d:50,"Geh mir aus den Augen, Unwürdiger. Ich trainiere nur die Templer des Schläfers.",,,,DIA_GorNaToth_AngarTalked_11_01,,
@@ -126,6 +126,8 @@ _work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:44,"Ich kann di
 _work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:45,"Mache dich bereit, deinem Schöpfer gegenüber zu treten.",,,,Info_TPL_1455_GorBoba1_08_05,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:49,Orktempel,,,,,,Log_CreateTopic call.
 _work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:50,"GorBoba hat sich mir in den Weg gestellt um micht auf zu halten. Ich habe noch von ihm erfahren, dass Kalom und seine Anhänger von dem Hohenpriester Macht verliehen bekommen haben, so dass sie nicht mehr mit menschlichen Waffen verletzt werden können.",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:50,"GorBoba hat sich mir in den Weg gestellt um micht auf zu halten. Ich habe noch von ihm erfahren, dass Kalom und seine Anhänger von dem Hohenpriester Macht verliehen bekommen haben, so dass sie nicht mehr mit menschlichen Waffen verletzt werden können.",,,,,,B_LogEntry call.
+_work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:50,Orktempel,,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:50,Orktempel,,,,,,B_LogEntry call.
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:21,Möge der Schläfer dich schützen!,,,,Tpl_1400_GorNaBar_Exit_Info_09_02,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:37,Ich brauche deine Hilfe,,,,Tpl_1400_GorNaBar_SUGGEST.description,,

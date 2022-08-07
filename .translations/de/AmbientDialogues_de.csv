@@ -1,4 +1,4 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/B/B_AssignAmbientInfos_Bau_2.d:17,ENDE,,,,Info_Bau_2_EXIT.description,,
 _work/Data/Scripts/content/Story/B/B_AssignAmbientInfos_Bau_2.d:40,Arbeitest du freiwillig auf den Reisfeldern?,,,,Info_Bau_2_WichtigePersonen.description,,
 _work/Data/Scripts/content/Story/B/B_AssignAmbientInfos_Bau_2.d:50,Arbeitest du freiwillig auf den Reisfeldern?,,,,Info_Bau_2_WichtigePersonen_15_00,,
