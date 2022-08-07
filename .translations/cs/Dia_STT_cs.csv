@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:51,"Neu hier, was? Dein Gesicht kenne ich nicht.","Jsi tady nový, že jo? Neznám tvou tvář.",,,DIA_STT_315_Sly_10_01,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:52,Ich bin Sly. Ich hätte was zu tun für einen Neuen.,Jsem Sly. Nabízím nováčkům práci.,,,DIA_STT_315_Sly_10_02,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:68,Du hast was zu tun für mich? Um was geht's?,Máš pro mě práci? Jakou?,,,DIA_STT_315_LostNek.description,,

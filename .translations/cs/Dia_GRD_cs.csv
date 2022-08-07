@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_GRD_203_Bullit.d:46,"Wen haben wir denn da? Du bist doch der Typ, den ich getauft habe? Was willst du? Noch mehr Schläge? ","Kohopak to tady máme? Není to ten hoch, kterého jsem kdysi pokřtil? Co chceš? Vracíš se a chceš ještě víc?",,,DIA_Bullit_First_06_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_GRD_203_Bullit.d:60,"Ich bin gekommen, um dir dein großes Maul zu stopfen.","Přišel jsem, abych ti zacpal tu tvojí velkou hubu.",,,DIA_Bullit_AufsMAul.description,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_GRD_203_Bullit.d:70,"Ich bin gekommen, um dir dein großes Maul zu stopfen.","Přišel jsem, abych ti zacpal tu tvoji velkou hubu.",,,DIA_Bullit_AufsMAul_15_00,,

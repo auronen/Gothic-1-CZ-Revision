@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:25,Auf in den Kampf!,Do boje!,,,Info_Gorn_EXIT_09_01,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:29,Bis später.,Ještě se uvidíme.,,,Info_Gorn_EXIT_09_02,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:59,Hey. Ein neues Gesicht.,Hej. Nová tvář.,,,DIA_Gorn_First_09_00,,

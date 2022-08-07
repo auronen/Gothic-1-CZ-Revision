@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/B/B_BuyAttributePoints.d:40,Keine Steigerung über Maximum 100!,Nelze zvýšit maximum 100!,,,,,PrintScreen call.
 _work/Data/Scripts/content/Story/B/B_BuyAttributePoints.d:46,Zu wenig Lernpunkte!,Nedostatek zkušenostních bodů!,,,,,PrintScreen call.
 _work/Data/Scripts/content/Story/B/B_CheckDeadMissionNPCs.d:8,Die Sache mit dem Wasser hat sich mit Leftys Tod wohl erledigt. Ich konnte den Typen sowieso nicht leiden.,"Teď když je Lefty mrtev, by se měla vyřešit ta záležitost s vodou. Nikdy jsem toho chlapa neměl rád.",,,,,B_LogEntry call.

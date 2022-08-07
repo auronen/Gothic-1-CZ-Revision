@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:20,"Du siehst ganz schön ungelenkig aus, ich könnte dir helfen.",Nevypadáš moc hbitě. Mohl bych ti pomoci.,,,DIA_ORG_833_Buster_02_01,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:57,Wie kannst du mir helfen?,Jak mi můžeš pomoci?,,,DIA_ORG_833_Buster3.description,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:67,Ich kann dir die hohe Kunst der Körperbeherrschung zeigen. AKROBATIK.,"Můžu ti ukázat, jak ovládat své tělo. To je umění AKROBACIE.",,,DIA_ORG_833_Buster3_02_01,,

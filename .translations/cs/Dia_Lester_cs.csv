@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:24,Dem Ziel entgegen!,Pojďme!,,,Info_Lester_EXIT_05_01,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:28,Der Schläfer möge dich behüten!,Kéž tě Spáč ochrání!,,,Info_Lester_EXIT_05_02,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:57,"Du hast einen Guru angesprochen!! Tu das nie wieder! Es ist ein Sakrileg! Wenn der Meister es für richtig hält, mit dir zu reden, wird ER dich ansprechen.","Oslovil jsi Guru! Už to nikdy nedělej! Je to svatokrádež! Když bude s tebou chtít mistr mluvit, ON osloví TEBE.",,,DIA_Lester_Sakrileg_05_00,,

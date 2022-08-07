@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:23,Weiter geht's.,Jdeme.,,,DIA_Milten_EXIT_02_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:27,Wir sehen uns.,Ještě se uvidíme.,,,DIA_Milten_EXIT_02_01,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:57,"Du darfst keinen Fuß über diese Schwelle setzen, es sei denn Meister Corristo gestattet es.",Bez povolení mistra Corrista nesmíš překročit tenhle práh.,,,DIA_Milten_First_02_00,,

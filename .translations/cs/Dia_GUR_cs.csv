@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:48,Was machst du hier? Wer hat dich hereingelassen? Wache!,Co tady děláš? Kdo tě sem pustil? Stráže!,,,DIA_YBerion_Wache_12_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:62,"Sei gegrüßt, Meister Y'Berion.","Buď pozdraven, mistře Y´Berione.",,,DIA_YBerion_Kennen.description,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:75,"Sei gegrüßt, Meister Y'Berion.","Buď pozdraven, mistře Y´Berione.",,,DIA_YBerion_Kennen_15_00,,

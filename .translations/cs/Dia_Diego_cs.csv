@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:28,Ich bin Diego.,Jsem Diego.,,,Info_Diego_Gamestart_11_00,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:29,Ich bin...,Já jsem...,,,Info_Diego_Gamestart_15_01,,
 _work/Data/Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:30,"Mich interessiert nicht, wer du bist. Du bist neu hier. Ich kümmere mich um die Neuen. Belassen wir es vorerst dabei.","Nezajímá mě, kdo jsi. Právě jsi přišel. Dohlížím na nové příchozí. To je zatím všechno.",,,Info_Diego_Gamestart_11_02,,

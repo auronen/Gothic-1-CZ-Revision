@@ -1,4 +1,4 @@
-"location", "source", "target", "id", "fuzzy", "context", "translator_comments", "developer_comments"
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
 _work/Data/Scripts/content/AI/Monster/Mst_BlackGobbo.d:7,schwarzer Goblin,Černý goblin,,,Mst_Default_BlackGobbo.name,,
 _work/Data/Scripts/content/AI/Monster/Mst_BlackGobbo.d:91,Goblin Krieger,Gobliní bojovník,,,BlackGobboWarrior.name,,
 _work/Data/Scripts/content/AI/Monster/Mst_Bloodfly.d:7,Blutfliege,Krvavá moucha,,,Mst_Default_Bloodfly.name,,
