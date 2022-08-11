@@ -112,3 +112,5 @@ const string	CH5_Uriziel				=	"Das magische Schwert URIZIEL";
 //	KAPITEL 6
 //---------------------------------------------------------------------
 const string	CH6_Sleeper				=	"Der Schläfer erwacht";
+
+const string    NOTE_OrcTemple          =   "Orktempel";
