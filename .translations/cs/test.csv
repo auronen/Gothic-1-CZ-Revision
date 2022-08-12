@@ -31,7 +31,7 @@
 "_work/Data/Scripts/content/AI/Test_Skripts/CharacterHelper.d:90","Str:","Str:","","True","","","ConcatStrings call."
 "_work/Data/Scripts/content/AI/Test_Skripts/CharacterHelper.d:92","Dex:","Dex:","","True","","","ConcatStrings call."
 "_work/Data/Scripts/content/AI/Test_Skripts/CharacterHelper.d:94","Mana:","Mana:","","True","","","ConcatStrings call."
-"_work/Data/Scripts/content/AI/Test_Skripts/CharacterHelper.d:101","Zu wenig Lernpunkte!","Zu wenig Lernpunkte!","","True","","","PrintScreen call."
+"_work/Data/Scripts/content/AI/Test_Skripts/CharacterHelper.d:101","Zu wenig Lernpunkte!","Nedostatek zkušenostních bodů!","","False","","","PrintScreen call."
 "_work/Data/Scripts/content/AI/Test_Skripts/CharacterHelper.d:114","nötig STR 11  DEX 16","nötig STR 11  DEX 16","","True","","","PrintScreen call."
 "_work/Data/Scripts/content/AI/Test_Skripts/CharacterHelper.d:121","nötig STR 17  DEX 22","nötig STR 17  DEX 22","","True","","","PrintScreen call."
 "_work/Data/Scripts/content/AI/Test_Skripts/CharacterHelper.d:128","nötig: STR 26  DEX 28","nötig: STR 26  DEX 28","","True","","","PrintScreen call."
