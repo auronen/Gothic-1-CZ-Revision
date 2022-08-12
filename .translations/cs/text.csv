@@ -67,7 +67,7 @@
 "_work/Data/Scripts/content/Story/Text.d:137","Feuerball","Ohnivá koule","","False","TXT_SPELLS[1]","",""
 "_work/Data/Scripts/content/Story/Text.d:138","n/a","n/a","","False","TXT_SPELLS[2]","",""
 "_work/Data/Scripts/content/Story/Text.d:139","Angst","Strach","","False","TXT_SPELLS[3]","",""
-"_work/Data/Scripts/content/Story/Text.d:140","Heilung","Uzdravení","","True","TXT_SPELLS[4]","",""
+"_work/Data/Scripts/content/Story/Text.d:140","Heilung","Uzdravit","","True","TXT_SPELLS[4]","",""
 "_work/Data/Scripts/content/Story/Text.d:141","n/a","n/a","","False","TXT_SPELLS[5]","",""
 "_work/Data/Scripts/content/Story/Text.d:142","Dämon beschwören","Vyvolání démona","","True","TXT_SPELLS[6]","",""
 "_work/Data/Scripts/content/Story/Text.d:143","Skelette beschwören","Vyvolání kostlivce","","True","TXT_SPELLS[7]","",""
