@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"_work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:36","Ich bin gekommen, um dir meine Dienste anzubieten.","Přišel jsem nabídnout své služby.","","True","DIA_Gomez_Fault.description","",""
-"_work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:49","Ich bin gekommen, um dir meine Dienste anzubieten.","Přišel jsem nabídnout své služby.","","True","DIA_Gomez_Fault_15_00","",""
+"_work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:36","Ich bin gekommen, um dir meine Dienste anzubieten.","Přišel jsem ti nabídnout své služby.","","False","DIA_Gomez_Fault.description","",""
+"_work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:49","Ich bin gekommen, um dir meine Dienste anzubieten.","Přišel jsem ti nabídnout své služby.","","False","DIA_Gomez_Fault_15_00","",""
 "_work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:50","Du platzt hier einfach rein und erwartest, dass ich mich mit dir befasse, du Wurm? WACHE!","Tak ty jsi sem přišel a myslíš si, že se o tebe budu zajímat, ty červe? STRÁŽE!","","True","DIA_Gomez_Fault_11_01","",""
 "_work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:72","Ich bin gekommen, um dir meine Dienste anzubieten.","Přišel jsem nabídnout své služby.","","True","DIA_Gomez_Hello.description","",""
 "_work/Data/Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:85","Ich bin gekommen, um dir meine Dienste anzubieten.","Přišel jsem nabídnout své služby.","","True","DIA_Gomez_Hello_15_00","",""
