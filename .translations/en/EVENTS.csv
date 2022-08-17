@@ -1,0 +1,6 @@
+"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+"_work/Data/Scripts/content/Story/EVENTS/Sleepabit.d:19","Du hast geschlafen und bist ausgeruht!","You slept well and feel better","","","","","PrintScreen call."
+"_work/Data/Scripts/content/Story/EVENTS/Sleepabit.d:83","Bis zum nächsten Morgen schlafen","Sleep until next morning","","","PC_SleepTime_Morning.description","",""
+"_work/Data/Scripts/content/Story/EVENTS/Sleepabit.d:105","Bis Mittags schlafen","Sleep until midday","","","PC_SleepTime_Noon.description","",""
+"_work/Data/Scripts/content/Story/EVENTS/Sleepabit.d:127","Bis zum nächsten Abend schlafen","Sleep until next evening","","","PC_SleepTime_Evening.description","",""
+"_work/Data/Scripts/content/Story/EVENTS/Sleepabit.d:149","Bis Mitternacht schlafen","Sleep until midnight","","","PC_SleepTime_Midnight.description","",""
